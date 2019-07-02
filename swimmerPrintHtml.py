@@ -23,10 +23,22 @@ def parseSheet(url):
         for j in range(0, 2):
             printSwimmers(df[1 + 2*i + j], df[0].iloc[i].iloc[j], yearWeek)
 
+# race should just be a long string containing information about the race
 def printSwimmers(swimmers, race, yearWeek):
-    print(swimmers)
-    print(race)
-    print("")
+    swimmers = swimmers.values
+
+    # Case for relays
+    if swimmers[0][1].split(" (")[0] == swimmers[0][1]:
+        # TODO: Parse out info for relays
+        print("This is a relay")
+    # Case for normal events
+    else:
+        # TODO Parse out the race information so you can add it to the end of the printout.
+        raceInfo = ""
+        # Gets individual swimmer information. Relays need a different format
+        for i in swimmers:
+            personal = i[1].split(" (")
+            print(personal[0] + ", " + personal[1][:-1] + ", " + personal[2][:-1] + ", " + str(i[3]) + ", " + raceInfo + yearWeek)
 
 
 parseSheet("2019/week1/DTvMO.html")
