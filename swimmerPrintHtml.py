@@ -16,29 +16,40 @@ def parseSheet(url):
     # lastName, firstName, age, team, time, sex, length, stroke, year, week
     # In the cases of relays, lastName and firstName will be N/A
     # In the case of relays, age will be NaN
-    # 175m relay stroke will be "Graduated"
+    # IM Stroke will be Individual
+    # 175m relay stroke will be "Freestyle", you must specify 175M to get the relays
     # 200m relay stroke will be "Medley"
     df = pd.read_html("http://www.mcsl.org/Results/" + url)
     for i in range(0, 25):
         for j in range(0, 2):
             printSwimmers(df[1 + 2*i + j], df[0].iloc[i].iloc[j], yearWeek)
 
+
 # race should just be a long string containing information about the race
 def printSwimmers(swimmers, race, yearWeek):
     swimmers = swimmers.values
 
+    race = race.split()
+    raceInfo = race[3] + ", " + race[5][:-1] + ", " + race[6].split("A")[0] + ", "
+
     # Case for relays
     if swimmers[0][1].split(" (")[0] == swimmers[0][1]:
         # TODO: Parse out info for relays
-        print("This is a relay")
+        for i in swimmers:
+            # Checks for NaN values to filter out certain relay
+            if i[0] != i[0]:
+                continue
+            else:
+                print("NULL, NULL, NULL, " + i[1] + ", " + str(i[3]) + ", " + raceInfo + yearWeek)
+                print("")
+
     # Case for normal events
     else:
-        # TODO Parse out the race information so you can add it to the end of the printout.
-        raceInfo = ""
         # Gets individual swimmer information. Relays need a different format
         for i in swimmers:
             personal = i[1].split(" (")
             print(personal[0] + ", " + personal[1][:-1] + ", " + personal[2][:-1] + ", " + str(i[3]) + ", " + raceInfo + yearWeek)
+            print("")
 
 
 parseSheet("2019/week1/DTvMO.html")
