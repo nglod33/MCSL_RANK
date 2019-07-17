@@ -1,16 +1,20 @@
-# Nate Glod
-# swimmerPrintHtml.py
+# Author: Nate Glod
+# FileName: swimmerPrintHtml.py
 # Made to turn MCSL results sheets into .csv files
 
 import pandas as pd
 import numpy as np
+import html5lib as h5
+import bs4
 
 
+# Parses an entire meet sheet
 def parseSheet(url):
 
+    if url.split(".")[1] == "pdf":
+        return
     # Gets the week and year out before adding them to the url for simplicity's sake
-    yearWeek = url[0:4] + ", " + url[9]
-
+    yearWeek = url.split("/")[-3] + ", " + url.split("/")[-2][4]
     # Reads in the actual results
     # Format after should be:
     # lastName, firstName, age, team, time, sex, length, stroke, year, week
@@ -19,6 +23,8 @@ def parseSheet(url):
     # IM Stroke will be Individual
     # 175m relay stroke will be "Freestyle", you must specify 175M to get the relays
     # 200m relay stroke will be "Medley"
+    # Relay team names will be the full team names and not the abbreviations
+
     df = pd.read_html("http://www.mcsl.org/Results/" + url)
     for i in range(0, 25):
         for j in range(0, 2):
@@ -34,14 +40,12 @@ def printSwimmers(swimmers, race, yearWeek):
 
     # Case for relays
     if swimmers[0][1].split(" (")[0] == swimmers[0][1]:
-        # TODO: Parse out info for relays
         for i in swimmers:
             # Checks for NaN values to filter out certain relay
             if i[0] != i[0]:
                 continue
             else:
                 print("NULL, NULL, NULL, " + i[1] + ", " + str(i[3]) + ", " + raceInfo + yearWeek)
-                print("")
 
     # Case for normal events
     else:
@@ -49,7 +53,6 @@ def printSwimmers(swimmers, race, yearWeek):
         for i in swimmers:
             personal = i[1].split(" (")
             print(personal[0] + ", " + personal[1][:-1] + ", " + personal[2][:-1] + ", " + str(i[3]) + ", " + raceInfo + yearWeek)
-            print("")
 
 
-parseSheet("2019/week1/DTvMO.html")
+parseSheet("2014/week1/TBvFM.html")
