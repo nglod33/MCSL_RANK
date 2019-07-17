@@ -9,12 +9,11 @@ import swimmerPrintHtml as sph
 
 
 def main():
-    for i in range(2014, 2019):
-        getURLs(i)
+    getURLs(2019)
 
 
 def getURLs(year):
-    suffixes = ["mcsl1res", "mcsl2res", "mcsl3res", "mcsl4res", "mcsl5res", "mcsldiv"]
+    suffixes = ["mcsl1res", "mcsl2res", "mcsl3res", "mcsl4res", "mcsl5res" ]#, "mcsldiv"]
     for i in suffixes:
         http = urllib3.PoolManager()
         response = http.request('GET', "http://www.mcsl.org/results/" + str(year) + "/" + i + ".html")
@@ -28,7 +27,7 @@ def getURLs(year):
             previousLink = link['href']
 '''
 TODO:
-Get results in from 2014 on 
+Get results in from 2014 on : DONE
 Make graphs and wealth/home-value/education correlations/analysis
 Get PostgreSQL database going on so you can do more fancy queries and get a website up and running
 Get website up and running and allow users to run queries and see ranks/percentiles for swimmers

@@ -14,7 +14,7 @@ def parseSheet(url):
     if url.split(".")[1] == "pdf":
         return
     # Gets the week and year out before adding them to the url for simplicity's sake
-    yearWeek = url.split("/")[-3] + ", " + url.split("/")[-2][4]
+    yearWeek = url.split("/")[0] + ", " + url.split("/")[-2][4]
     # Reads in the actual results
     # Format after should be:
     # lastName, firstName, age, team, time, sex, length, stroke, year, week
@@ -39,7 +39,10 @@ def printSwimmers(swimmers, race, yearWeek):
     raceInfo = race[3] + ", " + race[5][:-1] + ", " + race[6].split("A")[0] + ", "
 
     # Case for relays
-    if swimmers[0][1].split(" (")[0] == swimmers[0][1]:
+    if swimmers.size == 0:
+        return
+    split = swimmers[0][1].split(" (")
+    if split[0] == swimmers[0][1] or split[1] == "NON-Conforming Pool)":
         for i in swimmers:
             # Checks for NaN values to filter out certain relay
             if i[0] != i[0]:
@@ -55,4 +58,4 @@ def printSwimmers(swimmers, race, yearWeek):
             print(personal[0] + ", " + personal[1][:-1] + ", " + personal[2][:-1] + ", " + str(i[3]) + ", " + raceInfo + yearWeek)
 
 
-parseSheet("2014/week1/TBvFM.html")
+
