@@ -13,7 +13,7 @@ def main():
 
 
 def getURLs(year):
-    suffixes = ["mcsl1res", "mcsl2res", "mcsl3res", "mcsl4res", "mcsl5res" ]#, "mcsldiv"]
+    suffixes = ["mcsl1res", "mcsl2res", "mcsl3res", "mcsl4res", "mcsl5res", "mcsldiv"]
     for i in suffixes:
         http = urllib3.PoolManager()
         response = http.request('GET', "http://www.mcsl.org/results/" + str(year) + "/" + i + ".html")
