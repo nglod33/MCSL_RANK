@@ -2,35 +2,26 @@
 # FileName: swimmerPrintPDF.py
 
 import pandas as pd
-import numpy as np
-
 import tabula as tb
 
 
 def main():
-    # parseSheet("http://mcsl.org/results/2018/asi18.pdf")
-    # parseCSV("allStar.csv", "2018")
-    # replaceStuff("allStar18Cleaned.csv")
-    df = pd.read_csv("allSwims1.csv")
+    # parseSheet("http://mcsl.org/results/2017/asi17.pdf")
+    # parseCSV("asi17Raw.csv", "2017")
+    replaceStuff("asi17.csv")
 
-    # This does really well for replacing names, remember to use masks in the future
 
 
 def parseSheet(fileName):
-    df = tb.read_pdf(fileName, pages="all", guess="False", output_format="dataframe")
+    df = tb.read_pdf(fileName, pages="all", output_data="dataframe", guess="False")
     df = df.values
     printString = ""
     for i in df:
         printString = ""
-        for j in range(0, 6):
-            if i[j] != i[j]:
+        for j in i:
+            if j != j:
                 continue
-            printString = printString + str(i[j])
-            if j < 5:
-                printString = printString + ", "
-        printString = printString.replace("  ", ", ")
-        printString = printString.replace(" ", ",")
-        printString = printString.replace(",,", ", ")
+            printString = printString + str(j) + ","
         print(printString)
 
 
@@ -104,7 +95,8 @@ def replaceStuff(fileName):
         "GARRETT PARK": "GP",
         "HILLANDALE": "H",
         "HALLOWELL": "HA",
-        "INVERNESS RECREATION": "IF",
+        "INVERNESS RECREATION CLUB": "IF",
+        "INVERNESS FOREST": "IF",
         "JAMES CREEK": "JC",
         "KENMONT": "K",
         "KING FARM": "KFM",
@@ -198,7 +190,7 @@ def replaceStuff(fileName):
     # Create mask for replacement
     mask = (df['distance'] == '175')
     df['event'] = df['event'].mask(mask, 'Graduated Relay')
-    df.to_csv("asi18.csv")
+    df.to_csv("asi16.csv")
 
 # We do need a printSwimmers, we can't use the standard one
 # They need to be able to find the event names as well because they don't have the
