@@ -6,12 +6,15 @@ If the swimmer you are searching for has two words in their last name, ie appear
 search there name like so
 
 firstName: II John
+
 lastName: Doe
 
 
 Another example:
 "Doe II Esq, Jane"
+
 firstName: II Esq Jane
+
 lastName: Doe
 
 Any lastname which is hyphenated is treated as one word. Middle names will show up with the first name. Example:
