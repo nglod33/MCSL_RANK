@@ -24,3 +24,5 @@ Any lastname which is hyphenated is treated as one word. Middle names will show 
 firstName: John M.
 
 lastName: Doe-Smith
+
+This error only happens in all star results. All other results are displayed exactly as the MCSL does in normal meet results
