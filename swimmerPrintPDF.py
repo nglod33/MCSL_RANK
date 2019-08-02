@@ -6,9 +6,9 @@ import tabula as tb
 
 
 def main():
-    # parseSheet("http://mcsl.org/results/2016/asi16.pdf")
-    # parseCSV("asi16Raw.csv", "2017")
-    replaceStuff("asi16.csv")
+    # parseSheet("http://mcsl.org/results/2018/asi18.pdf")
+    # parseCSV("asi18Raw.csv", "2018")
+    replaceStuff("asi18.csv")
 
 
 
@@ -26,7 +26,7 @@ def parseSheet(fileName):
 
 
 def parseCSV(fileName, year):
-    df = pd.read_csv(fileName)
+    df = pd.read_csv(fileName).astype(str)
     df = df.values
     stroke = ""
     distance = ""
@@ -36,7 +36,7 @@ def parseCSV(fileName, year):
     teamName = ""
     week = "7"
     j = 0
-    print("lastName,firstname,age,team,time,sex,distance,event,year,week")
+    print("lastName,firstName,age,team,time,sex,distance,event,year,week")
     for i in df:
         firstName = ""
         lastName = ""
@@ -49,10 +49,10 @@ def parseCSV(fileName, year):
             distance = i[4]
             stroke = i[7]
             continue
-        firstName = i[1]
+        lastName = i[1]
         j = 2
         while not (48 <= ord(i[j][0]) <= 57):
-            lastName = lastName + " " + i[j]
+            firstName = firstName + " " + i[j]
             j = j+1
         age = i[j]
         teamName = i[j+1]
@@ -62,7 +62,7 @@ def parseCSV(fileName, year):
             j = j+1
         time = i[j+1]
         print(lastName + "," + firstName + "," + age + "," + teamName.upper() + "," + time + "," + sex + "," + distance + ","
-              + stroke + "," + year + "," + week)
+              + str(stroke) + "," + str(year) + "," + str(week))
 
 
 def replaceStuff(fileName):
@@ -98,6 +98,7 @@ def replaceStuff(fileName):
         "HILLANDALE": "H",
         "HALLOWELL": "HA",
         "INVERNESS RECREATION CLUB": "IF",
+        "INVERNESS RECREATION": "IF",
         "INVERNESS FOREST": "IF",
         "JAMES CREEK": "JC",
         "KENMONT": "K",
@@ -204,7 +205,7 @@ def replaceStuff(fileName):
     df.drop(inplace=True, columns=['lastName', 'age', 'sex', 'distance', 'event', 'year', 'week', 'Unnamed: 0'])
     df = df.set_index(["team", "time"]).count(level="team").sort_values(by=["firstName"])
     '''
-    df.to_csv("example.csv")
+    df.to_csv(fileName)
 
 # We do need a printSwimmers, we can't use the standard one
 # They need to be able to find the event names as well because they don't have the

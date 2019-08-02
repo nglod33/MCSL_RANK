@@ -78,7 +78,7 @@
 76,Phillips,Dain,10,OF,34.92,Boys,50,Free,2018,7
 77,Lutz,Oliver,10,CB,35.00,Boys,50,Free,2018,7
 78,Taylor,Chase,9,KL,35.56,Boys,50,Free,2018,7
-79,Devinney,Maximus,10,CG,DQ,Boys,50,Free,2018,7
+79,Devinney,Maximus,10,CG,-1,Boys,50,Free,2018,7
 80,Hammond,Hailey,10,LF,31.01,Girls,50,Free,2018,7
 81,Fleck,Kristina,10,BE,31.76,Girls,50,Free,2018,7
 82,Ge,Sophia,10,IF,32.13,Girls,50,Free,2018,7
@@ -159,38 +159,38 @@
 157,Murphy,Chloe,12,RF,31.07,Girls,50,Free,2018,7
 158,Stasko,Scarlett,12,KL,31.23,Girls,50,Free,2018,7
 159,Stubner,Madeleine,12,FV,31.24,Girls,50,Free,2018,7
-160,Stanton,Aaron,17,SG,52.22,Men,100,Free,2018,7
-161,Mendley,Steven,17,PO,52.56,Men,100,Free,2018,7
-162,Laracuente,Gabriel,16,QO,53.09,Men,100,Free,2018,7
-163,Bayler,Zach,16,RH,53.36,Men,100,Free,2018,7
-164,Jagodits,Theodore,18,PL,53.57,Men,100,Free,2018,7
-165,O'Donnell,Bobby,17,W,53.63,Men,100,Free,2018,7
-166,Din,Connor,17,WG,54.19,Men,100,Free,2018,7
-167,Qin,Jeffrey,17,SB,54.19,Men,100,Free,2018,7
-168,Vipavetz,Ryan,17,MB,54.41,Men,100,Free,2018,7
-169,Petrizzo,Michael T.,18,G,54.50,Men,100,Free,2018,7
-170,Nguyen,TanHung,17,BE,54.66,Men,100,Free,2018,7
-171,Munson,Drew,17,HA,54.87,Men,100,Free,2018,7
-172,Mackey,Ian,17,CG,54.90,Men,100,Free,2018,7
-173,Smith,Eamon,15,CB,54.99,Men,100,Free,2018,7
-174,Golladay,Marrick,16,FR,55.11,Men,100,Free,2018,7
-175,Goetcheus,Hayes,16,C,55.38,Men,100,Free,2018,7
-176,Thomas,Tia,15,SG,58.12,Women,100,Free,2018,7
-177,Wenhold,Amanda,16,TA,59.21,Women,100,Free,2018,7
-178,Marney-Bell,Alli,15,NWB,59.27,Women,100,Free,2018,7
-179,Tirrell,Audrey,17,MCT,59.51,Women,100,Free,2018,7
-180,Drill,Maya,17,TW,59.65,Women,100,Free,2018,7
-181,Dobrzykowski,Natalie,16,NH,59.79,Women,100,Free,2018,7
-182,Tait,Regan,17,WCF,59.84,Women,100,Free,2018,7
-183,Nugent,Celine,18,TW,1:00.04,Women,100,Free,2018,7
-184,Umhofer,Jane,15,WM,1:00.47,Women,100,Free,2018,7
-185,Redisch,Lena,18,MO,1:00.51,Women,100,Free,2018,7
-186,Zupnik,Tatum,16,RC,1:00.62,Women,100,Free,2018,7
-187,Gould,Katherine,15,TW,1:00.78,Women,100,Free,2018,7
-188,Wallace,Taylor,15,SG,1:00.92,Women,100,Free,2018,7
-189,Anderson,Kasey Cora,15,KL,1:00.99,Women,100,Free,2018,7
-190,Howley,Caroline,16,PW,1:01.22,Women,100,Free,2018,7
-191,Quackenbush,Esther Corley,17,DT,1:02.21,Women,100,Free,2018,7
+160,Stanton,Aaron,17,SG,52.22,Boys,100,Free,2018,7
+161,Mendley,Steven,17,PO,52.56,Boys,100,Free,2018,7
+162,Laracuente,Gabriel,16,QO,53.09,Boys,100,Free,2018,7
+163,Bayler,Zach,16,RH,53.36,Boys,100,Free,2018,7
+164,Jagodits,Theodore,18,PL,53.57,Boys,100,Free,2018,7
+165,O'Donnell,Bobby,17,W,53.63,Boys,100,Free,2018,7
+166,Din,Connor,17,WG,54.19,Boys,100,Free,2018,7
+167,Qin,Jeffrey,17,SB,54.19,Boys,100,Free,2018,7
+168,Vipavetz,Ryan,17,MB,54.41,Boys,100,Free,2018,7
+169,Petrizzo,Michael T.,18,G,54.50,Boys,100,Free,2018,7
+170,Nguyen,TanHung,17,BE,54.66,Boys,100,Free,2018,7
+171,Munson,Drew,17,HA,54.87,Boys,100,Free,2018,7
+172,Mackey,Ian,17,CG,54.90,Boys,100,Free,2018,7
+173,Smith,Eamon,15,CB,54.99,Boys,100,Free,2018,7
+174,Golladay,Marrick,16,FR,55.11,Boys,100,Free,2018,7
+175,Goetcheus,Hayes,16,C,55.38,Boys,100,Free,2018,7
+176,Thomas,Tia,15,SG,58.12,Girls,100,Free,2018,7
+177,Wenhold,Amanda,16,TA,59.21,Girls,100,Free,2018,7
+178,Marney-Bell,Alli,15,NWB,59.27,Girls,100,Free,2018,7
+179,Tirrell,Audrey,17,MCT,59.51,Girls,100,Free,2018,7
+180,Drill,Maya,17,TW,59.65,Girls,100,Free,2018,7
+181,Dobrzykowski,Natalie,16,NH,59.79,Girls,100,Free,2018,7
+182,Tait,Regan,17,WCF,59.84,Girls,100,Free,2018,7
+183,Nugent,Celine,18,TW,1:00.04,Girls,100,Free,2018,7
+184,Umhofer,Jane,15,WM,1:00.47,Girls,100,Free,2018,7
+185,Redisch,Lena,18,MO,1:00.51,Girls,100,Free,2018,7
+186,Zupnik,Tatum,16,RC,1:00.62,Girls,100,Free,2018,7
+187,Gould,Katherine,15,TW,1:00.78,Girls,100,Free,2018,7
+188,Wallace,Taylor,15,SG,1:00.92,Girls,100,Free,2018,7
+189,Anderson,Kasey Cora,15,KL,1:00.99,Girls,100,Free,2018,7
+190,Howley,Caroline,16,PW,1:01.22,Girls,100,Free,2018,7
+191,Quackenbush,Esther Corley,17,DT,1:02.21,Girls,100,Free,2018,7
 192,Hernandez-Fuentes,Jason,13,SG,59.85,Boys,100,IM,2018,7
 193,Marder,James,14,LF,1:03.29,Boys,100,IM,2018,7
 194,Santos,Sean,14,HA,1:03.50,Boys,100,IM,2018,7
@@ -287,38 +287,38 @@
 285,Andrews,Lily,10,BE,19.68,Girls,25,Back,2018,7
 286,McGee,Zoe,10,WM,20.26,Girls,25,Back,2018,7
 287,Swezey,Charlotte,10,MM,20.64,Girls,25,Back,2018,7
-288,Rose,Jack,17,WG,57.86,Men,100,Back,2018,7
-289,Braviak,Matthew,18,TW,58.37,Men,100,Back,2018,7
-290,Casey-Bolanos,Maximillano,16,NWB,58.82,Men,100,Back,2018,7
-291,Redmond,Lawrence,18,TH,58.84,Men,100,Back,2018,7
-292,Nguyen,Matthew,18,KFM,58.87,Men,100,Back,2018,7
-293,Wong,Michael,18,GER,59.09,Men,100,Back,2018,7
-294,McCarthy,Gregory Fall,18,G,59.27,Men,100,Back,2018,7
-295,Watts,Nathan,17,FV,59.38,Men,100,Back,2018,7
-296,Adelman,Mac Patrick,18,DT,1:00.76,Men,100,Back,2018,7
-297,Ho,Kevin,17,PGL,1:00.92,Men,100,Back,2018,7
-298,Wills,John,18,OG,1:01.54,Men,100,Back,2018,7
-299,Laclef,Matthew,16,WM,1:01.81,Men,100,Back,2018,7
-300,Smith,Eamon,15,CB,1:02.25,Men,100,Back,2018,7
-301,Pottker,Matthew,16,WM,1:03.25,Men,100,Back,2018,7
-302,Qin,Anthony,16,SB,1:04.77,Men,100,Back,2018,7
-303,Petrizzo,Michael T.,18,G,1:05.36,Men,100,Back,2018,7
-304,Kannan,Hannah,18,BE,1:03.67,Women,100,Back,2018,7
-305,Cosgrove,Kate,15,CB,1:04.58,Women,100,Back,2018,7
-306,Borjigin,Moshelle,16,GER,1:06.35,Women,100,Back,2018,7
-307,Culkin,Sarah,15,WG,1:06.61,Women,100,Back,2018,7
-308,Sanchez,Sophie,15,RV,1:07.44,Women,100,Back,2018,7
-309,Morris,Annie,15,RF,1:07.53,Women,100,Back,2018,7
-310,Gould,Katherine,15,TW,1:07.58,Women,100,Back,2018,7
-311,Smith,Samantha,15,SO,1:07.90,Women,100,Back,2018,7
-312,Dobrzykowski,Natalie,16,NH,1:08.19,Women,100,Back,2018,7
-313,Giangrande,Gillian,18,G,1:08.87,Women,100,Back,2018,7
-314,Tait,Regan,17,WCF,1:09.52,Women,100,Back,2018,7
-315,Greenleaf,Holly,17,NWB,1:09.66,Women,100,Back,2018,7
-316,Nolan,Kennedy,17,TA,1:09.88,Women,100,Back,2018,7
-317,Rios,Kassandra,16,NWB,1:09.90,Women,100,Back,2018,7
-318,O'Hara,Bridget,15,MCT,1:10.51,Women,100,Back,2018,7
-319,Laas,Bridget Ann,17,G,1:12.17,Women,100,Back,2018,7
+288,Rose,Jack,17,WG,57.86,Boys,100,Back,2018,7
+289,Braviak,Matthew,18,TW,58.37,Boys,100,Back,2018,7
+290,Casey-Bolanos,Maximillano,16,NWB,58.82,Boys,100,Back,2018,7
+291,Redmond,Lawrence,18,TH,58.84,Boys,100,Back,2018,7
+292,Nguyen,Matthew,18,KFM,58.87,Boys,100,Back,2018,7
+293,Wong,Michael,18,GER,59.09,Boys,100,Back,2018,7
+294,McCarthy,Gregory Fall,18,G,59.27,Boys,100,Back,2018,7
+295,Watts,Nathan,17,FV,59.38,Boys,100,Back,2018,7
+296,Adelman,Mac Patrick,18,DT,1:00.76,Boys,100,Back,2018,7
+297,Ho,Kevin,17,PGL,1:00.92,Boys,100,Back,2018,7
+298,Wills,John,18,OG,1:01.54,Boys,100,Back,2018,7
+299,Laclef,Matthew,16,WM,1:01.81,Boys,100,Back,2018,7
+300,Smith,Eamon,15,CB,1:02.25,Boys,100,Back,2018,7
+301,Pottker,Matthew,16,WM,1:03.25,Boys,100,Back,2018,7
+302,Qin,Anthony,16,SB,1:04.77,Boys,100,Back,2018,7
+303,Petrizzo,Michael T.,18,G,1:05.36,Boys,100,Back,2018,7
+304,Kannan,Hannah,18,BE,1:03.67,Girls,100,Back,2018,7
+305,Cosgrove,Kate,15,CB,1:04.58,Girls,100,Back,2018,7
+306,Borjigin,Moshelle,16,GER,1:06.35,Girls,100,Back,2018,7
+307,Culkin,Sarah,15,WG,1:06.61,Girls,100,Back,2018,7
+308,Sanchez,Sophie,15,RV,1:07.44,Girls,100,Back,2018,7
+309,Morris,Annie,15,RF,1:07.53,Girls,100,Back,2018,7
+310,Gould,Katherine,15,TW,1:07.58,Girls,100,Back,2018,7
+311,Smith,Samantha,15,SO,1:07.90,Girls,100,Back,2018,7
+312,Dobrzykowski,Natalie,16,NH,1:08.19,Girls,100,Back,2018,7
+313,Giangrande,Gillian,18,G,1:08.87,Girls,100,Back,2018,7
+314,Tait,Regan,17,WCF,1:09.52,Girls,100,Back,2018,7
+315,Greenleaf,Holly,17,NWB,1:09.66,Girls,100,Back,2018,7
+316,Nolan,Kennedy,17,TA,1:09.88,Girls,100,Back,2018,7
+317,Rios,Kassandra,16,NWB,1:09.90,Girls,100,Back,2018,7
+318,O'Hara,Bridget,15,MCT,1:10.51,Girls,100,Back,2018,7
+319,Laas,Bridget Ann,17,G,1:12.17,Girls,100,Back,2018,7
 320,Sun,Ashton Yiyang,12,KFM,31.93,Boys,50,Back,2018,7
 321,Solana,Ernesto,12,RC,32.23,Boys,50,Back,2018,7
 322,Arioti,Adriano,11,RV,32.92,Boys,50,Back,2018,7
@@ -399,22 +399,22 @@
 397,Wills,John,18,OG,1:02.03,Boys,100,IM,2018,7
 398,Goetcheus,Hayes,16,C,1:02.26,Boys,100,IM,2018,7
 399,Vilbig,Kai,18,WTL,1:02.73,Boys,100,IM,2018,7
-400,Nugent,Celine,18,TW,1:05.94,Women,100,IM,2018,7
-401,Culkin,Sarah,15,WG,1:07.31,Women,100,IM,2018,7
-402,Thomas,Tia,15,SG,1:07.43,Women,100,IM,2018,7
-403,Benson,Molly,15,G,1:07.87,Women,100,IM,2018,7
-404,Elliott,Sarah,16,GER,1:07.96,Women,100,IM,2018,7
-405,Borjigin,Moshelle,16,GER,1:08.39,Women,100,IM,2018,7
-406,Owings,Hannah,15,RH,1:08.58,Women,100,IM,2018,7
-407,Johnson,Sarah,16,MO,1:09.02,Women,100,IM,2018,7
-408,Giddings,Grace,17,OM,1:09.22,Women,100,IM,2018,7
-409,Gould,Hannah,17,TW,1:09.55,Women,100,IM,2018,7
-410,O'Hara,Bridget,15,MCT,1:09.56,Women,100,IM,2018,7
-411,Kaiser,Alison,15,RE,1:09.63,Women,100,IM,2018,7
-412,Weitzman,Andie,16,QO,1:09.75,Women,100,IM,2018,7
-413,Wang,Sophia Shuya,16,WCF,1:10.75,Women,100,IM,2018,7
-414,LeFauve,Jolie,16,RV,1:10.94,Women,100,IM,2018,7
-415,Quackenbush,Esther Corley,17,DT,1:10.95,Women,100,IM,2018,7
+400,Nugent,Celine,18,TW,1:05.94,Girls,100,IM,2018,7
+401,Culkin,Sarah,15,WG,1:07.31,Girls,100,IM,2018,7
+402,Thomas,Tia,15,SG,1:07.43,Girls,100,IM,2018,7
+403,Benson,Molly,15,G,1:07.87,Girls,100,IM,2018,7
+404,Elliott,Sarah,16,GER,1:07.96,Girls,100,IM,2018,7
+405,Borjigin,Moshelle,16,GER,1:08.39,Girls,100,IM,2018,7
+406,Owings,Hannah,15,RH,1:08.58,Girls,100,IM,2018,7
+407,Johnson,Sarah,16,MO,1:09.02,Girls,100,IM,2018,7
+408,Giddings,Grace,17,OM,1:09.22,Girls,100,IM,2018,7
+409,Gould,Hannah,17,TW,1:09.55,Girls,100,IM,2018,7
+410,O'Hara,Bridget,15,MCT,1:09.56,Girls,100,IM,2018,7
+411,Kaiser,Alison,15,RE,1:09.63,Girls,100,IM,2018,7
+412,Weitzman,Andie,16,QO,1:09.75,Girls,100,IM,2018,7
+413,Wang,Sophia Shuya,16,WCF,1:10.75,Girls,100,IM,2018,7
+414,LeFauve,Jolie,16,RV,1:10.94,Girls,100,IM,2018,7
+415,Quackenbush,Esther Corley,17,DT,1:10.95,Girls,100,IM,2018,7
 416,Bartholomew,Lachlan,8,WM,20.47,Boys,25,Breaststroke,2018,7
 417,Chen,Kevin,8,GM,20.63,Boys,25,Breaststroke,2018,7
 418,Donohue,J.T.,8,RF,21.47,Boys,25,Breaststroke,2018,7
@@ -445,8 +445,8 @@
 443,Manning,Isabella,8,CB,25.96,Girls,25,Breaststroke,2018,7
 444,Barish,Ayla,7,FV,26.12,Girls,25,Breaststroke,2018,7
 445,Bickel,Katherine,8,NCC,26.16,Girls,25,Breaststroke,2018,7
-446,McGee,Margaret,8,WM,DQ,Girls,25,Breaststroke,2018,7
-447,Anttila,Dotson Eleanor,8,MW,DQ,Girls,25,Breaststroke,2018,7
+446,McGee,Margaret,8,WM,-1,Girls,25,Breaststroke,2018,7
+447,Anttila,Dotson Eleanor,8,MW,-1,Girls,25,Breaststroke,2018,7
 448,Franck,Ryan,10,FO,17.64,Boys,25,Breaststroke,2018,7
 449,Lee,Ethan,10,PL,18.10,Boys,25,Breaststroke,2018,7
 450,Bagshaw,Maxwell,10,C,19.20,Boys,25,Breaststroke,2018,7
@@ -494,7 +494,7 @@
 492,Eckert,Graham,12,GP,38.13,Boys,50,Breaststroke,2018,7
 493,Cannistra,Jake,12,CCR,39.30,Boys,50,Breaststroke,2018,7
 494,Frank,John,11,CB,39.59,Boys,50,Breaststroke,2018,7
-495,Tun,Harrison,12,BE,DQ,Boys,50,Breaststroke,2018,7
+495,Tun,Harrison,12,BE,-1,Boys,50,Breaststroke,2018,7
 496,Lantry,Emma,11,K,35.39,Girls,50,Breaststroke,2018,7
 497,Li,Anna Wei,12,WCF,35.83,Girls,50,Breaststroke,2018,7
 498,Yetter,Felicity,12,WM,36.68,Girls,50,Breaststroke,2018,7
@@ -541,38 +541,38 @@
 541,Iimi,Rin,14,RV,37.68,Girls,50,Breaststroke,2018,7
 542,Johnson,Gabrielle,14,K,37.88,Girls,50,Breaststroke,2018,7
 543,Kaneko,Katherine Akiko,13,TA,38.25,Girls,50,Breaststroke,2018,7
-544,Fouts,Eli,18,QO,1:01.06,Men,100,Breaststroke,2018,7
-545,Vilbig,Kai,18,WTL,1:05.63,Men,100,Breaststroke,2018,7
-546,Emerson,Christopher,18,WM,1:06.19,Men,100,Breaststroke,2018,7
-547,Nonato,Joseph Alfredo,16,CLM,1:06.51,Men,100,Breaststroke,2018,7
-548,Nagard,Daniel,16,TH,1:06.62,Men,100,Breaststroke,2018,7
-549,Stanton,Aaron,17,SG,1:08.40,Men,100,Breaststroke,2018,7
-550,Bagshaw,Henry,15,C,1:08.65,Men,100,Breaststroke,2018,7
-551,Paulos,Michael,16,PM,1:08.79,Men,100,Breaststroke,2018,7
-552,Bergman,Zachary,18,MM,1:08.98,Men,100,Breaststroke,2018,7
-553,Navaleza,Angelo,15,PLT,1:09.24,Men,100,Breaststroke,2018,7
-554,Penafiel,Michael,16,K,1:09.41,Men,100,Breaststroke,2018,7
-555,Lawson,Kyle,15,PM,1:09.69,Men,100,Breaststroke,2018,7
-556,Zuo,Ben Long,15,TH,1:10.95,Men,100,Breaststroke,2018,7
-557,Garvey,Noah,18,WCF,1:11.35,Men,100,Breaststroke,2018,7
-558,Troutman,Max,15,SG,1:12.29,Men,100,Breaststroke,2018,7
-559,Gross,Jordan,16,CG,1:14.06,Men,100,Breaststroke,2018,7
-560,Kaiser,Alison,15,RE,1:13.10,Women,100,Breaststroke,2018,7
-561,Wenhold,Amanda,16,TA,1:13.10,Women,100,Breaststroke,2018,7
-562,Johnson,Sarah,16,MO,1:13.63,Women,100,Breaststroke,2018,7
-563,Elliott,Sarah,16,GER,1:14.75,Women,100,Breaststroke,2018,7
-564,Umhofer,Jane,15,WM,1:14.94,Women,100,Breaststroke,2018,7
-565,Weitzman,Andie,16,QO,1:15.79,Women,100,Breaststroke,2018,7
-566,Gould,Hannah,17,TW,1:16.10,Women,100,Breaststroke,2018,7
-567,Owings,Hannah,15,RH,1:16.20,Women,100,Breaststroke,2018,7
-568,Bailey,Alana,17,K,1:16.76,Women,100,Breaststroke,2018,7
-569,Wang,Sophia Shuya,16,WCF,1:16.77,Women,100,Breaststroke,2018,7
-570,Howley,Caroline,16,PW,1:17.50,Women,100,Breaststroke,2018,7
-571,Greenleaf,Holly,17,NWB,1:17.72,Women,100,Breaststroke,2018,7
-572,Giddings,Grace,17,OM,1:18.19,Women,100,Breaststroke,2018,7
-573,Meisel,Gabrielle,17,NCC,1:18.42,Women,100,Breaststroke,2018,7
-574,LeFauve,Jolie,16,RV,1:19.08,Women,100,Breaststroke,2018,7
-575,Wade,Allison,17,HA,1:20.61,Women,100,Breaststroke,2018,7
+544,Fouts,Eli,18,QO,1:01.06,Boys,100,Breaststroke,2018,7
+545,Vilbig,Kai,18,WTL,1:05.63,Boys,100,Breaststroke,2018,7
+546,Emerson,Christopher,18,WM,1:06.19,Boys,100,Breaststroke,2018,7
+547,Nonato,Joseph Alfredo,16,CLM,1:06.51,Boys,100,Breaststroke,2018,7
+548,Nagard,Daniel,16,TH,1:06.62,Boys,100,Breaststroke,2018,7
+549,Stanton,Aaron,17,SG,1:08.40,Boys,100,Breaststroke,2018,7
+550,Bagshaw,Henry,15,C,1:08.65,Boys,100,Breaststroke,2018,7
+551,Paulos,Michael,16,PM,1:08.79,Boys,100,Breaststroke,2018,7
+552,Bergman,Zachary,18,MM,1:08.98,Boys,100,Breaststroke,2018,7
+553,Navaleza,Angelo,15,PLT,1:09.24,Boys,100,Breaststroke,2018,7
+554,Penafiel,Michael,16,K,1:09.41,Boys,100,Breaststroke,2018,7
+555,Lawson,Kyle,15,PM,1:09.69,Boys,100,Breaststroke,2018,7
+556,Zuo,Ben Long,15,TH,1:10.95,Boys,100,Breaststroke,2018,7
+557,Garvey,Noah,18,WCF,1:11.35,Boys,100,Breaststroke,2018,7
+558,Troutman,Max,15,SG,1:12.29,Boys,100,Breaststroke,2018,7
+559,Gross,Jordan,16,CG,1:14.06,Boys,100,Breaststroke,2018,7
+560,Kaiser,Alison,15,RE,1:13.10,Girls,100,Breaststroke,2018,7
+561,Wenhold,Amanda,16,TA,1:13.10,Girls,100,Breaststroke,2018,7
+562,Johnson,Sarah,16,MO,1:13.63,Girls,100,Breaststroke,2018,7
+563,Elliott,Sarah,16,GER,1:14.75,Girls,100,Breaststroke,2018,7
+564,Umhofer,Jane,15,WM,1:14.94,Girls,100,Breaststroke,2018,7
+565,Weitzman,Andie,16,QO,1:15.79,Girls,100,Breaststroke,2018,7
+566,Gould,Hannah,17,TW,1:16.10,Girls,100,Breaststroke,2018,7
+567,Owings,Hannah,15,RH,1:16.20,Girls,100,Breaststroke,2018,7
+568,Bailey,Alana,17,K,1:16.76,Girls,100,Breaststroke,2018,7
+569,Wang,Sophia Shuya,16,WCF,1:16.77,Girls,100,Breaststroke,2018,7
+570,Howley,Caroline,16,PW,1:17.50,Girls,100,Breaststroke,2018,7
+571,Greenleaf,Holly,17,NWB,1:17.72,Girls,100,Breaststroke,2018,7
+572,Giddings,Grace,17,OM,1:18.19,Girls,100,Breaststroke,2018,7
+573,Meisel,Gabrielle,17,NCC,1:18.42,Girls,100,Breaststroke,2018,7
+574,LeFauve,Jolie,16,RV,1:19.08,Girls,100,Breaststroke,2018,7
+575,Wade,Allison,17,HA,1:20.61,Girls,100,Breaststroke,2018,7
 576,Rienzo,John Lucius,8,CB,17.91,Boys,25,Fly,2018,7
 577,Tovornik,Jackson,8,MW,18.14,Boys,25,Fly,2018,7
 578,Donohue,J.T.,8,RF,18.66,Boys,25,Fly,2018,7
@@ -701,35 +701,35 @@
 701,Fenton,Bella,13,CG,30.92,Girls,50,Fly,2018,7
 702,Simon,Seneca,14,FO,31.30,Girls,50,Fly,2018,7
 703,Holst,Hannah,14,WM,31.34,Girls,50,Fly,2018,7
-704,Colson,Alexander,17,NWB,25.50,Men,50,Fly,2018,7
-705,Gruner,Ryan,16,SG,26.00,Men,50,Fly,2018,7
-706,Laracuente,Gabriel,16,QO,26.09,Men,50,Fly,2018,7
-707,Emerson,Christopher,18,WM,26.26,Men,50,Fly,2018,7
-708,Van,Wagener Tyler,18,WM,26.31,Men,50,Fly,2018,7
-709,Hernandez,Jorge,15,GM,26.42,Men,50,Fly,2018,7
-710,Pottker,Matthew,16,WM,26.45,Men,50,Fly,2018,7
-711,Egan,Niles,16,NCC,26.82,Men,50,Fly,2018,7
-712,O'Donnell,Bobby,17,W,26.93,Men,50,Fly,2018,7
-713,Ott,Brady,18,SG,27.05,Men,50,Fly,2018,7
-714,Zeineddin,Pierre,15,KL,27.06,Men,50,Fly,2018,7
-715,Levine,Max,18,SL,27.07,Men,50,Fly,2018,7
-716,Crow,Jamison,17,TA,27.12,Men,50,Fly,2018,7
-717,Wong,Michael,18,GER,27.12,Men,50,Fly,2018,7
-718,Vipavetz,Ryan,17,MB,27.13,Men,50,Fly,2018,7
-719,Song,Kevin,18,WCF,27.30,Men,50,Fly,2018,7
-720,Kannan,Hannah,18,BE,28.25,Women,50,Fly,2018,7
-721,Reilly,Sophie,17,PM,28.82,Women,50,Fly,2018,7
-722,Trnkus,Christina,16,CCR,29.04,Women,50,Fly,2018,7
-723,Drill,Maya,17,TW,29.38,Women,50,Fly,2018,7
-724,Smith,Samantha,15,SO,29.80,Women,50,Fly,2018,7
-725,Benson,Molly,15,G,29.80,Women,50,Fly,2018,7
-726,Lopez,Nicole,17,TW,29.82,Women,50,Fly,2018,7
-727,Cosgrove,Kate,15,CB,29.84,Women,50,Fly,2018,7
-728,Navarrete,Allison,16,MO,30.07,Women,50,Fly,2018,7
-729,Graminski,Abby,15,W,30.26,Women,50,Fly,2018,7
-730,Zupnik,Tatum,16,RC,30.48,Women,50,Fly,2018,7
-731,Vanderzon,Nicole,16,SO,30.62,Women,50,Fly,2018,7
-732,Bailey,Alana,17,K,30.70,Women,50,Fly,2018,7
-733,Marney-Bell,Alli,15,NWB,30.70,Women,50,Fly,2018,7
-734,Ford,Celia,15,G,31.05,Women,50,Fly,2018,7
-735,Redisch,Lena,18,MO,31.06,Women,50,Fly,2018,7
+704,Colson,Alexander,17,NWB,25.50,Boys,50,Fly,2018,7
+705,Gruner,Ryan,16,SG,26.00,Boys,50,Fly,2018,7
+706,Laracuente,Gabriel,16,QO,26.09,Boys,50,Fly,2018,7
+707,Emerson,Christopher,18,WM,26.26,Boys,50,Fly,2018,7
+708,Van,Wagener Tyler,18,WM,26.31,Boys,50,Fly,2018,7
+709,Hernandez,Jorge,15,GM,26.42,Boys,50,Fly,2018,7
+710,Pottker,Matthew,16,WM,26.45,Boys,50,Fly,2018,7
+711,Egan,Niles,16,NCC,26.82,Boys,50,Fly,2018,7
+712,O'Donnell,Bobby,17,W,26.93,Boys,50,Fly,2018,7
+713,Ott,Brady,18,SG,27.05,Boys,50,Fly,2018,7
+714,Zeineddin,Pierre,15,KL,27.06,Boys,50,Fly,2018,7
+715,Levine,Max,18,SL,27.07,Boys,50,Fly,2018,7
+716,Crow,Jamison,17,TA,27.12,Boys,50,Fly,2018,7
+717,Wong,Michael,18,GER,27.12,Boys,50,Fly,2018,7
+718,Vipavetz,Ryan,17,MB,27.13,Boys,50,Fly,2018,7
+719,Song,Kevin,18,WCF,27.30,Boys,50,Fly,2018,7
+720,Kannan,Hannah,18,BE,28.25,Girls,50,Fly,2018,7
+721,Reilly,Sophie,17,PM,28.82,Girls,50,Fly,2018,7
+722,Trnkus,Christina,16,CCR,29.04,Girls,50,Fly,2018,7
+723,Drill,Maya,17,TW,29.38,Girls,50,Fly,2018,7
+724,Smith,Samantha,15,SO,29.80,Girls,50,Fly,2018,7
+725,Benson,Molly,15,G,29.80,Girls,50,Fly,2018,7
+726,Lopez,Nicole,17,TW,29.82,Girls,50,Fly,2018,7
+727,Cosgrove,Kate,15,CB,29.84,Girls,50,Fly,2018,7
+728,Navarrete,Allison,16,MO,30.07,Girls,50,Fly,2018,7
+729,Graminski,Abby,15,W,30.26,Girls,50,Fly,2018,7
+730,Zupnik,Tatum,16,RC,30.48,Girls,50,Fly,2018,7
+731,Vanderzon,Nicole,16,SO,30.62,Girls,50,Fly,2018,7
+732,Bailey,Alana,17,K,30.70,Girls,50,Fly,2018,7
+733,Marney-Bell,Alli,15,NWB,30.70,Girls,50,Fly,2018,7
+734,Ford,Celia,15,G,31.05,Girls,50,Fly,2018,7
+735,Redisch,Lena,18,MO,31.06,Girls,50,Fly,2018,7
