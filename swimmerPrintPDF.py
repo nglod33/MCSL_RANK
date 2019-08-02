@@ -6,9 +6,9 @@ import tabula as tb
 
 
 def main():
-    # parseSheet("http://mcsl.org/results/2017/asi17.pdf")
-    # parseCSV("asi17Raw.csv", "2017")
-    replaceStuff("asi17.csv")
+    # parseSheet("http://mcsl.org/results/2016/asi16.pdf")
+    # parseCSV("asi16Raw.csv", "2017")
+    replaceStuff("asi16.csv")
 
 
 
@@ -74,6 +74,7 @@ def replaceStuff(fileName):
         "CALVERTON": "CA",
         "CONNECTICUT BELAIR": "CB",
         "CHEVY CHASE REC.": "CCR",
+        "CHEVY CHASE RECREATION ASSOCIATION": "CCR",
         "COUNTRY GLEN": "CG",
         "CLARKSBURG VILLAGE": "CLK",
         "CLOPPER MILL KINGSVIEW": "CLM",
@@ -83,6 +84,7 @@ def replaceStuff(fileName):
         "DAMASCUS": "DA",
         "DIAMOND FARM": "DF",
         "DARNESTOWN": "DT",
+        "EAST GATE": "EG",
         "ELDWICK": "EW",
         "FLOWER HILL": "FH",
         "FALLSMEAD": "FM",
@@ -155,7 +157,8 @@ def replaceStuff(fileName):
         "WILLOWS OF POTOMAC": "WLP",
         "WILDWOOD MANOR": "WM",
         "WATERS LANDING": "WTL",
-        "WASHINGTONIAN WOODS": "WWD"
+        "WASHINGTONIAN WOODS": "WWD",
+        "WHEATON WOODS": "WW"
     }
     # for replacing ages that get messed up in conversion
     ages = {
@@ -190,7 +193,18 @@ def replaceStuff(fileName):
     # Create mask for replacement
     mask = (df['distance'] == '175')
     df['event'] = df['event'].mask(mask, 'Graduated Relay')
-    df.to_csv("asi16.csv")
+
+    # Removes a DNF
+    df = df[df.time != "DNF"]
+
+    '''
+    Code here creates a DQcount document. Run it all in when you have all the data in
+    
+    df = df[df.time == '-1']
+    df.drop(inplace=True, columns=['lastName', 'age', 'sex', 'distance', 'event', 'year', 'week', 'Unnamed: 0'])
+    df = df.set_index(["team", "time"]).count(level="team").sort_values(by=["firstName"])
+    '''
+    df.to_csv("example.csv")
 
 # We do need a printSwimmers, we can't use the standard one
 # They need to be able to find the event names as well because they don't have the

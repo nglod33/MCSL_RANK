@@ -1,0 +1,735 @@
+lastName,firstname,age,team,time,sex,distance,event,year,week
+Josh,Wolfson,12,TALLYHO,1:07.69,Boys,100,IM,2017,7
+Sean,Santos,12,HALLOWELL,1:08.88,Boys,100,IM,2017,7
+James,Marder,12,LITTLE FALLS,1:10.64,Boys,100,IM,2017,7
+Roell,MacLang,12,QUAIL VALLEY,1:11.12,Boys,100,IM,2017,7
+Collin,McKenzie,12,DALEVIEW,1:11.88,Boys,100,IM,2017,7
+Andrew,O'Brien,12,BANNOCKBURN,1:11.91,Boys,100,IM,2017,7
+Gordon,Lee,12,LAKELANDS,1:12.25,Boys,100,IM,2017,7
+Jason,Hernandez-Fuentes,11,STONEGATE,1:13.04,Boys,100,IM,2017,7
+Alexander,Chen,12,CLARKSBURG VILLAGE,1:13.10,Boys,100,IM,2017,7
+Karim,Elkassem,12,COUNTRY GLEN,1:13.31,Boys,100,IM,2017,7
+Jason,Bretz,12,RIVER FALLS,1:13.42,Boys,100,IM,2017,7
+Justin,yi,12,WOODCLIFFE,1:13.61,Boys,100,IM,2017,7
+Joshua,Hou,12,ROCKVILLE,1:13.70,Boys,100,IM,2017,7
+Dan Wei,Zuo,11,TALLYHO,1:14.61,Boys,100,IM,2017,7
+Jordan,Webster,12,MILL CREEK TOWNE,1:15.12,Boys,100,IM,2017,7
+Booker,McCann,12,ROCK CREEK,DQ,Boys,100,IM,2017,7
+Sophie,Duncan,12,BANNOCKBURN,1:08.66,Girls,100,IM,2017,7
+Carly,Sebring,11,DAMASCUS,1:11.66,Girls,100,IM,2017,7
+Clara,Attar,12,WILDWOOD MANOR,1:13.04,Girls,100,IM,2017,7
+Megan,Zeng,11,GERMANTOWN,1:14.08,Girls,100,IM,2017,7
+Stephanie,Zoltick,12,INVERNESS RECREATION CLUB,1:14.86,Girls,100,IM,2017,7
+Elena,Harrison,11,RIVER FALLS,1:14.93,Girls,100,IM,2017,7
+Kylie Garris,Morissette,12,WOODCLIFFE,1:15.16,Girls,100,IM,2017,7
+Rin,Iimi,12,ROCKVILLE,1:15.30,Girls,100,IM,2017,7
+Joyce,Wu,11,KING FARM,1:15.47,Girls,100,IM,2017,7
+Sophie,Elliott,12,GERMANTOWN,1:16.00,Girls,100,IM,2017,7
+Erin,Gemmell,11,POTOMAC WOODS,1:16.12,Girls,100,IM,2017,7
+Sophia,Hovis,12,DALEVIEW,1:16.18,Girls,100,IM,2017,7
+Emma,Dorsey,12,OLNEY MILL,1:17.20,Girls,100,IM,2017,7
+Rachel,Soubier,11,CONNECTICUT BELAIR,1:17.26,Girls,100,IM,2017,7
+Elena,Baird,12,WOODLEY GARDENS,1:17.47,Girls,100,IM,2017,7
+Josephina,Wang,11,ROCKVILLE,1:21.73,Girls,100,IM,2017,7
+Christian,Kennard,8,ROBIN HOOD,16.07,Boys,25,Freestyle,2017,7
+Justin,Lakso,8,NORBECK GROVE,16.46,Boys,25,Freestyle,2017,7
+Brig,Barnett,8,FLOWER VALLEY,16.82,Boys,25,Freestyle,2017,7
+Reid,Weltman,8,TALLYHO,17.06,Boys,25,Freestyle,2017,7
+Carter,Meadows,8,SEVEN LOCKS,17.40,Boys,25,Freestyle,2017,7
+Sebastian,Ament,8,MANOR WOODS,17.59,Boys,25,Freestyle,2017,7
+Edward,Chi,8,REGENCY ESTATES,17.66,Boys,25,Freestyle,2017,7
+William,Morgan,7,SEVEN LOCKS,17.68,Boys,25,Freestyle,2017,7
+Xzavier,Torrejon,8,ROCKVILLE,17.68,Boys,25,Freestyle,2017,7
+Daniel,Horan,8,TALLYHO,18.22,Boys,25,Freestyle,2017,7
+Griffin,Oehler,7,WOODLEY GARDENS,18.24,Boys,25,Freestyle,2017,7
+Maxwell,Bagshaw,8,CEDARBROOK,18.25,Boys,25,Freestyle,2017,7
+Finnian,Male,8,DALEVIEW,18.37,Boys,25,Freestyle,2017,7
+Braxton,Cobbs,8,CLARKSBURG VILLAGE,18.67,Boys,25,Freestyle,2017,7
+Emmet,Conroy,8,BANNOCKBURN,19.06,Boys,25,Freestyle,2017,7
+Eli,Ferrara,8,MANCHESTER FARM,19.47,Boys,25,Freestyle,2017,7
+Hailey,Hammond,8,LITTLE FALLS,16.61,Girls,25,Freestyle,2017,7
+Darya,Zalalutdinov,8,STONEGATE,16.72,Girls,25,Freestyle,2017,7
+Gabriela,Kaiser,8,REGENCY ESTATES,16.96,Girls,25,Freestyle,2017,7
+Paige,Schulz,8,KENMONT,17.18,Girls,25,Freestyle,2017,7
+Meghan,Morin,8,CONNECTICUT BELAIR,17.43,Girls,25,Freestyle,2017,7
+Elise,Wratney,8,CEDARBROOK,17.47,Girls,25,Freestyle,2017,7
+Isabella,Balderama,8,QUAIL VALLEY,17.56,Girls,25,Freestyle,2017,7
+Kimberley,Trang,8,GLENMONT,17.73,Girls,25,Freestyle,2017,7
+Stephanie,Marks,8,WASHINGTONIAN WOODS,17.86,Girls,25,Freestyle,2017,7
+Maria,Webb,8,QUAIL VALLEY,17.94,Girls,25,Freestyle,2017,7
+Kate,Barclay,8,DALEVIEW,17.95,Girls,25,Freestyle,2017,7
+Zoe,Gondi,8,FRANKLIN KNOLLS,17.98,Girls,25,Freestyle,2017,7
+Rachael,Henske,8,TALLYHO,18.24,Girls,25,Freestyle,2017,7
+Kellie,Kincaid,8,ROBIN HOOD,18.38,Girls,25,Freestyle,2017,7
+Alyssa,Baumann,8,FRANKLIN KNOLLS,18.62,Girls,25,Freestyle,2017,7
+Julia,Boardman,8,OLNEY MILL,19.35,Girls,25,Freestyle,2017,7
+Samir,Elkassem,10,COUNTRY GLEN,30.70,Boys,50,Freestyle,2017,7
+Nasim,Elkassem,10,COUNTRY GLEN,30.85,Boys,50,Freestyle,2017,7
+Liam,Rooney,10,FRANKLIN KNOLLS,31.38,Boys,50,Freestyle,2017,7
+Junwoo,Kim,10,INVERNESS RECREATION CLUB,31.69,Boys,50,Freestyle,2017,7
+Ashton Yiyang,Sun,10,KING FARM,32.01,Boys,50,Freestyle,2017,7
+Cole,Hilton,10,WOODCLIFFE,32.52,Boys,50,Freestyle,2017,7
+Jordan,Kelly,10,ROCKSHIRE,32.60,Boys,50,Freestyle,2017,7
+Brady,Begin,10,COUNTRY GLEN,32.70,Boys,50,Freestyle,2017,7
+Alexander,Wen,10,REGENCY ESTATES,32.91,Boys,50,Freestyle,2017,7
+Tyler,Coapstick,9,WESTLEIGH,32.98,Boys,50,Freestyle,2017,7
+Javier,Llano-Cruz,10,BETHESDA,33.08,Boys,50,Freestyle,2017,7
+Owen,Watkins,10,DARNESTOWN,33.30,Boys,50,Freestyle,2017,7
+Linus,Ament,10,MANOR WOODS,33.47,Boys,50,Freestyle,2017,7
+Wesley,Brandt,10,NORTHWEST BRANCH,33.67,Boys,50,Freestyle,2017,7
+John,Yuan,10,OLD GEORGETOWN,34.12,Boys,50,Freestyle,2017,7
+Caleb,Vu,10,STONEGATE,34.36,Boys,50,Freestyle,2017,7
+Amy,Qin,10,STONEBRIDGE,31.28,Girls,50,Freestyle,2017,7
+Livia,Venditti,10,COUNTRY GLEN,31.60,Girls,50,Freestyle,2017,7
+Jessie,Feng,10,GERMANTOWN,32.51,Girls,50,Freestyle,2017,7
+Darby Ann,LeFaivre,10,BANNOCKBURN,32.57,Girls,50,Freestyle,2017,7
+Reagan,Phillips,10,OLD FARM,33.05,Girls,50,Freestyle,2017,7
+Abigail,Yo,10,WOODCLIFFE,33.13,Girls,50,Freestyle,2017,7
+Ainsley,Taylor,9,KENTLANDS,33.21,Girls,50,Freestyle,2017,7
+Natalie,Webb,10,QUAIL VALLEY,33.74,Girls,50,Freestyle,2017,7
+Healey,Morgan,10,SEVEN LOCKS,33.82,Girls,50,Freestyle,2017,7
+Sidney,Thompson,10,ROCKSHIRE,33.87,Girls,50,Freestyle,2017,7
+Angelica,Hu,10,REGENCY ESTATES,33.92,Girls,50,Freestyle,2017,7
+Erin,Haines,10,FLOWER VALLEY,34.25,Girls,50,Freestyle,2017,7
+Sophie,Linkie,10,OLD FARM,34.42,Girls,50,Freestyle,2017,7
+Zoe,Crane,10,ROCK CREEK,34.46,Girls,50,Freestyle,2017,7
+Donna,Cho,10,ROCKVILLE,34.82,Girls,50,Freestyle,2017,7
+Chloe,Murphy,10,RIVER FALLS,35.26,Girls,50,Freestyle,2017,7
+Jacob,Lindner,14,LAKELANDS,25.39,Boys,50,Freestyle,2017,7
+Harrison,Oehler,14,WOODLEY GARDENS,25.53,Boys,50,Freestyle,2017,7
+Gabriel,Laracuente,14,QUINCE ORCHARD,25.75,Boys,50,Freestyle,2017,7
+Noah,Rutberg,13,REGENCY ESTATES,26.00,Boys,50,Freestyle,2017,7
+Hayes,Goetcheus,14,CEDARBROOK,26.06,Boys,50,Freestyle,2017,7
+Jacob,Rosner,14,POTOMAC WOODS,26.20,Boys,50,Freestyle,2017,7
+Jonathan,Crocker,14,MILL CREEK TOWNE,26.53,Boys,50,Freestyle,2017,7
+Jonathan,Martin,14,TANGLEWOOD,26.64,Boys,50,Freestyle,2017,7
+Gaoxing,Cosgrove,14,REGENCY ESTATES,26.73,Boys,50,Freestyle,2017,7
+Marrick,Golladay,14,FRANKLIN KNOLLS,26.77,Boys,50,Freestyle,2017,7
+Niles,Egan,14,NORTH CHEVY CHASE,26.83,Boys,50,Freestyle,2017,7
+Joshua,Roberts,14,MOHICAN,27.21,Boys,50,Freestyle,2017,7
+Alain,Vu,14,JAMES CREEK,27.38,Boys,50,Freestyle,2017,7
+Dylan,Danaie,13,COUNTRY GLEN,27.57,Boys,50,Freestyle,2017,7
+Ian Gunsel,Song,14,WOODCLIFFE,27.62,Boys,50,Freestyle,2017,7
+Sean,Keller,14,CONNECTICUT BELAIR,28.32,Boys,50,Freestyle,2017,7
+Maya,Fischer,14,EAST GATE,26.91,Girls,50,Freestyle,2017,7
+Tia,Thomas,13,STONEGATE,27.36,Girls,50,Freestyle,2017,7
+Jolie,LeFauve,14,ROCKVILLE,27.95,Girls,50,Freestyle,2017,7
+Tatum,Zupnik,14,ROCK CREEK,27.95,Girls,50,Freestyle,2017,7
+Amanda,Wenhold,14,TANTERRA,27.97,Girls,50,Freestyle,2017,7
+Megan,Sharkey,14,POTOMAC WOODS,28.14,Girls,50,Freestyle,2017,7
+Malia,Bush,13,REGENCY ESTATES,28.23,Girls,50,Freestyle,2017,7
+Erika,Chen,13,ROCKVILLE,28.44,Girls,50,Freestyle,2017,7
+Sophie,Sanchez,13,ROCKVILLE,28.57,Girls,50,Freestyle,2017,7
+Taylor,Wallace,13,STONEGATE,28.60,Girls,50,Freestyle,2017,7
+Makenzie,Higgins,14,STONEBRIDGE,28.69,Girls,50,Freestyle,2017,7
+Caroline,Howley,14,POTOMAC WOODS,28.75,Girls,50,Freestyle,2017,7
+Hannah,Owings,13,ROBIN HOOD,29.15,Girls,50,Freestyle,2017,7
+Ava,Haraldsson,13,SOMERSET,29.16,Girls,50,Freestyle,2017,7
+Rachel,Fenton,13,COUNTRY GLEN,29.23,Girls,50,Freestyle,2017,7
+Bridget,O'Hara,13,MILL CREEK TOWNE,29.78,Girls,50,Freestyle,2017,7
+David,Fitch,12,POTOMAC,26.20,Boys,50,Freestyle,2017,7
+Cole,Greenberg,12,QUINCE ORCHARD,27.39,Boys,50,Freestyle,2017,7
+Roell,MacLang,12,QUAIL VALLEY,28.14,Boys,50,Freestyle,2017,7
+Benjamin,Nachod,12,GERMANTOWN,28.22,Boys,50,Freestyle,2017,7
+Maxwell Falin,Chen,12,WOODCLIFFE,28.29,Boys,50,Freestyle,2017,7
+Everett,Oehler,12,WOODLEY GARDENS,28.43,Boys,50,Freestyle,2017,7
+Jordan,Zhang,12,STONEBRIDGE,29.05,Boys,50,Freestyle,2017,7
+Gordon,Lee,12,LAKELANDS,29.43,Boys,50,Freestyle,2017,7
+Booker,McCann,12,ROCK CREEK,29.57,Boys,50,Freestyle,2017,7
+Jason,Hernandez-Fuentes,11,STONEGATE,29.63,Boys,50,Freestyle,2017,7
+Parker,Koenig,11,OLD GEORGETOWN,29.79,Boys,50,Freestyle,2017,7
+Harrison F.,Cerone,12,DARNESTOWN,30.01,Boys,50,Freestyle,2017,7
+Matthew,Dietrich,12,HILLANDALE,30.06,Boys,50,Freestyle,2017,7
+Orion,Foo,12,CLARKSBURG TOWN CENTER,30.38,Boys,50,Freestyle,2017,7
+Nathan,Beukema,12,KENMONT,30.38,Boys,50,Freestyle,2017,7
+Zach,Martin,12,GERMANTOWN,30.48,Boys,50,Freestyle,2017,7
+Giulia,Baroldi,12,POTOMAC GLEN,28.33,Girls,50,Freestyle,2017,7
+Jillian,Berger,12,LITTLE FALLS,28.75,Girls,50,Freestyle,2017,7
+Cheyenne,Chen,12,HALLOWELL,29.32,Girls,50,Freestyle,2017,7
+Nina,Allen,11,STONEGATE,29.63,Girls,50,Freestyle,2017,7
+Emily,Noll,12,MERRIMACK PARK,29.71,Girls,50,Freestyle,2017,7
+Amy,Lamb,11,STONEGATE,29.76,Girls,50,Freestyle,2017,7
+Kayden,Austin-Vaias,12,CEDARBROOK,29.89,Girls,50,Freestyle,2017,7
+Sydney,Allen,11,STONEGATE,29.89,Girls,50,Freestyle,2017,7
+Sophia,Hovis,12,DALEVIEW,29.97,Girls,50,Freestyle,2017,7
+Erin,Gemmell,11,POTOMAC WOODS,30.05,Girls,50,Freestyle,2017,7
+Ella Donya,Myers,12,KING FARM,30.38,Girls,50,Freestyle,2017,7
+Rachel,Soubier,11,CONNECTICUT BELAIR,30.46,Girls,50,Freestyle,2017,7
+Colleen,Kincaid,12,ROBIN HOOD,30.81,Girls,50,Freestyle,2017,7
+Maren,Conze,11,GARRETT PARK,30.82,Girls,50,Freestyle,2017,7
+Kelly,Wilson,12,RIVER FALLS,30.89,Girls,50,Freestyle,2017,7
+Molly,Gray,12,ASHTON,31.27,Girls,50,Freestyle,2017,7
+Andrew,Omenitsch,17,CEDARBROOK,52.29,Boys,50,Freestyle,2017,7
+Jack,Cosgrove,18,CONNECTICUT BELAIR,52.39,Boys,50,Freestyle,2017,7
+Kevin,Berry,18,GARRETT PARK,52.85,Boys,50,Freestyle,2017,7
+Brady,Ott,16,STONEGATE,53.77,Boys,50,Freestyle,2017,7
+Theodore,Jagodits,16,POOLESVILLE,53.92,Boys,50,Freestyle,2017,7
+Patrick,Hedquist,17,NORTH CREEK,54.16,Boys,50,Freestyle,2017,7
+Connor,Din,15,WOODLEY GARDENS,54.22,Boys,50,Freestyle,2017,7
+Gregory,Afolabi-Brown,17,LAKE MARION,54.31,Boys,50,Freestyle,2017,7
+Joseph,Turi,17,SOMERSET,54.40,Boys,50,Freestyle,2017,7
+Hunter,Reed,18,FLOWER HILL,54.65,Boys,50,Freestyle,2017,7
+Justin,Kim,16,WOODCLIFFE,55.09,Boys,50,Freestyle,2017,7
+Touzon Diego,Suarez,17,ROCK CREEK,55.11,Boys,50,Freestyle,2017,7
+Ryan,Vipavetz,15,MIDDLEBRIDGE,55.29,Boys,50,Freestyle,2017,7
+Jonathan,Mendley,16,WOODLEY GARDENS,55.36,Boys,50,Freestyle,2017,7
+Colin,Mackey,18,COUNTRY GLEN,55.88,Boys,50,Freestyle,2017,7
+Steven,Mendley,15,ROCKVILLE,56.00,Boys,50,Freestyle,2017,7
+Olivia,French,16,KENTLANDS,57.94,Women,100,Freestyle,2017,7
+Madison,Waechter,17,FRANKLIN KNOLLS,58.17,Women,100,Freestyle,2017,7
+Catherine,Johnson,18,TWIN FARMS,58.55,Women,100,Freestyle,2017,7
+Sydney,Knapp,17,MANCHESTER FARM,58.62,Women,100,Freestyle,2017,7
+Sammie,Grant,15,DALEVIEW,58.66,Women,100,Freestyle,2017,7
+Elaina,Gu,18,ROCKVILLE,58.67,Women,100,Freestyle,2017,7
+Sydney,Kirsch,18,CEDARBROOK,59.18,Women,100,Freestyle,2017,7
+Audrey,Richter,17,NORBECK HILLS,59.47,Women,100,Freestyle,2017,7
+Maya,Drill,15,TILDEN WOODS,1:00.15,Women,100,Freestyle,2017,7
+Audrey,Tirrell,15,MANCHESTER FARM,1:00.36,Women,100,Freestyle,2017,7
+Samantha,Bischoff,18,GERMANTOWN,1:00.37,Women,100,Freestyle,2017,7
+Meghan,Karl,18,FLOWER VALLEY,1:01.26,Women,100,Freestyle,2017,7
+Birgitt,O'Connor,18,WATERS LANDING,1:01.99,Women,100,Freestyle,2017,7
+Gail Frances,Anderson,17,GLENWOOD,1:02.70,Women,100,Freestyle,2017,7
+Grace,Elliott,16,GERMANTOWN,1:02.89,Women,100,Freestyle,2017,7
+Emily,Mann,15,KENTLANDS,1:03.30,Women,100,Freestyle,2017,7
+Brett,Feyerick,13,TALLYHO,1:01.34,Boys,100,IM,2017,7
+Alan,Li,14,ROCKVILLE,1:01.55,Boys,100,IM,2017,7
+Ryan,Gruner,14,STONEGATE,1:02.94,Boys,100,IM,2017,7
+Daniel,Wang,14,ROCKSHIRE,1:03.99,Boys,100,IM,2017,7
+Maximillano,Casey-Bolanos,14,NORTHWEST BRANCH,1:04.27,Boys,100,IM,2017,7
+Jacob,Rosner,14,POTOMAC WOODS,1:04.40,Boys,100,IM,2017,7
+Gaoxing,Cosgrove,14,REGENCY ESTATES,1:05.53,Boys,100,IM,2017,7
+Joseph Alfredo,Nonato,14,CLOPPER MILL KINGSVIEW,1:06.07,Boys,100,IM,2017,7
+Michael,Penafiel,14,KENMONT,1:06.39,Boys,100,IM,2017,7
+Matthew,Pottker,14,WILDWOOD MANOR,1:06.52,Boys,100,IM,2017,7
+Trent,Schlosser,14,POTOMAC WOODS,1:06.62,Boys,100,IM,2017,7
+Rory,Stumpf,14,POTOMAC,1:07.71,Boys,100,IM,2017,7
+Andrew,Loayza,14,NORBECK HILLS,1:07.77,Boys,100,IM,2017,7
+Anthony,Qin,14,STONEBRIDGE,1:08.45,Boys,100,IM,2017,7
+Matthew,Laclef,14,WILDWOOD MANOR,1:09.34,Boys,100,IM,2017,7
+Gabriel,Laracuente,14,QUINCE ORCHARD,DQ,Boys,100,IM,2017,7
+Madeline,Mara,14,ROCKVILLE,1:05.83,Girls,100,IM,2017,7
+Catherine,Belyakov,13,NORTH CREEK,1:06.17,Girls,100,IM,2017,7
+Moshelle,Borjigin,14,GERMANTOWN,1:08.92,Girls,100,IM,2017,7
+Erika,Chen,13,ROCKVILLE,1:09.79,Girls,100,IM,2017,7
+Brianna,Sanidad,14,STONEGATE,1:10.40,Girls,100,IM,2017,7
+Molly,Benson,13,GLENWOOD,1:10.40,Girls,100,IM,2017,7
+Alison,Kaiser,13,REGENCY ESTATES,1:10.71,Girls,100,IM,2017,7
+Katherine,Gould,13,TILDEN WOODS,1:11.01,Girls,100,IM,2017,7
+Kassandra,Rios,14,NORTHWEST BRANCH,1:11.24,Girls,100,IM,2017,7
+Andie,Weitzman,14,QUINCE ORCHARD,1:11.28,Girls,100,IM,2017,7
+Joy,Shi,14,POTOMAC GLEN,1:11.79,Girls,100,IM,2017,7
+Leah,Kannan,13,BETHESDA,1:11.97,Girls,100,IM,2017,7
+Malia,Bush,13,REGENCY ESTATES,1:12.51,Girls,100,IM,2017,7
+Sophia Shuya,Wang,14,WOODCLIFFE,1:13.24,Girls,100,IM,2017,7
+Kelly,Reid,14,MILL CREEK TOWNE,1:13.49,Girls,100,IM,2017,7
+Anne,Morris,13,RIVER FALLS,1:15.82,Girls,100,IM,2017,7
+Christian,Kennard,8,ROBIN HOOD,19.77,Boys,25,Backstroke,2017,7
+Kazuki,Nagao,8,QUINCE ORCHARD,19.78,Boys,25,Backstroke,2017,7
+Eli,Ferrara,8,MANCHESTER FARM,21.44,Boys,25,Backstroke,2017,7
+Charlie,Begin,8,COUNTRY GLEN,21.74,Boys,25,Backstroke,2017,7
+Justin,Harris,8,DIAMOND FARM,21.84,Boys,25,Backstroke,2017,7
+Dom,D'Avella,8,OLD GEORGETOWN,21.84,Boys,25,Backstroke,2017,7
+Emmet,Conroy,8,BANNOCKBURN,21.96,Boys,25,Backstroke,2017,7
+Owen,Lan,8,TALLYHO,21.98,Boys,25,Backstroke,2017,7
+Justin,Lakso,8,NORBECK GROVE,22.00,Boys,25,Backstroke,2017,7
+Kyle,Fuster,8,ROCKSHIRE,22.21,Boys,25,Backstroke,2017,7
+Jeffrey,Boman,8,CLOPPER MILL KINGSVIEW,22.26,Boys,25,Backstroke,2017,7
+Kevin,Doan,8,ROCKVILLE,22.29,Boys,25,Backstroke,2017,7
+Seamus,Rooney,8,FRANKLIN KNOLLS,22.87,Boys,25,Backstroke,2017,7
+Austin,Hamilton,8,LITTLE FALLS,23.41,Boys,25,Backstroke,2017,7
+Alexander,Fraser,8,KENMONT,23.91,Boys,25,Backstroke,2017,7
+Carter,Meadows,8,SEVEN LOCKS,24.91,Boys,25,Backstroke,2017,7
+Hailey,Hammond,8,LITTLE FALLS,19.03,Girls,25,Backstroke,2017,7
+Sonia,Weliwitigoda,8,MOHICAN,20.94,Girls,25,Backstroke,2017,7
+Virginia,Hinds,8,CHEVY CHASE RECREATION ASSOCIA,21.18,Girls,25,Backstroke,2017,7
+Eileen,Cosgrove,8,CONNECTICUT BELAIR,21.41,Girls,25,Backstroke,2017,7
+Elizabeth,Chen,7,STONEBRIDGE,21.62,Girls,25,Backstroke,2017,7
+Meghan,Morin,8,CONNECTICUT BELAIR,21.71,Girls,25,Backstroke,2017,7
+Anna,Bosco,7,QUINCE ORCHARD,22.00,Girls,25,Backstroke,2017,7
+Cecilia,Hines,8,FRANKLIN KNOLLS,22.24,Girls,25,Backstroke,2017,7
+Helen,James,8,TILDEN WOODS,22.25,Girls,25,Backstroke,2017,7
+Kellie,Kincaid,8,ROBIN HOOD,22.42,Girls,25,Backstroke,2017,7
+Emerson,Koenig,8,WOODLEY GARDENS,22.67,Girls,25,Backstroke,2017,7
+Eden,Fiery,8,MANCHESTER FARM,22.79,Girls,25,Backstroke,2017,7
+Charlotte,Swezey,8,MERRIMACK PARK,23.18,Girls,25,Backstroke,2017,7
+Zoe,McGee,8,WILDWOOD MANOR,23.73,Girls,25,Backstroke,2017,7
+Charlotte,Chang,8,UPPER COUNTY,24.23,Girls,25,Backstroke,2017,7
+Victoria,Mo,8,LAKELANDS,24.48,Girls,25,Backstroke,2017,7
+Ashton Yiyang,Sun,10,KING FARM,16.23,Boys,25,Backstroke,2017,7
+Adriano,Arioti,9,ROCKVILLE,16.50,Boys,25,Backstroke,2017,7
+Thomas,Hatchett,10,SEVEN LOCKS,16.97,Boys,25,Backstroke,2017,7
+Harrison,Quach,10,STONEGATE,17.06,Boys,25,Backstroke,2017,7
+Ernesto,Solana,10,ROCK CREEK,17.75,Boys,25,Backstroke,2017,7
+Liam,Rooney,10,FRANKLIN KNOLLS,17.80,Boys,25,Backstroke,2017,7
+Max,Schaupp,10,MILL CREEK TOWNE,17.90,Boys,25,Backstroke,2017,7
+Michael,Kaiser,10,REGENCY ESTATES,18.18,Boys,25,Backstroke,2017,7
+Quinn,Marchionini,9,FRANKLIN KNOLLS,18.23,Boys,25,Backstroke,2017,7
+Javier,Llano-Cruz,10,BETHESDA,18.28,Boys,25,Backstroke,2017,7
+Nicolas Salvatore,Opipari,10,TILDEN WOODS,18.56,Boys,25,Backstroke,2017,7
+Evan,Mackesy,10,MILL CREEK TOWNE,18.57,Boys,25,Backstroke,2017,7
+Lucas,Quiroga,10,HALLOWELL,19.07,Boys,25,Backstroke,2017,7
+Caleb,Vu,10,STONEGATE,19.20,Boys,25,Backstroke,2017,7
+Ryan,McGuire,10,CLARKSBURG VILLAGE,19.47,Boys,25,Backstroke,2017,7
+Finn,Bacon,10,TALLYHO,19.61,Boys,25,Backstroke,2017,7
+Livia,Venditti,10,COUNTRY GLEN,17.00,Girls,25,Backstroke,2017,7
+Amy,Qin,10,STONEBRIDGE,17.24,Girls,25,Backstroke,2017,7
+Abigail,Yo,10,WOODCLIFFE,17.78,Girls,25,Backstroke,2017,7
+Darby Ann,LeFaivre,10,BANNOCKBURN,17.85,Girls,25,Backstroke,2017,7
+Cameron,Spinner,10,MANCHESTER FARM,17.97,Girls,25,Backstroke,2017,7
+Jessie,Feng,10,GERMANTOWN,18.04,Girls,25,Backstroke,2017,7
+Samantha,Lemar,10,INVERNESS RECREATION CLUB,18.39,Girls,25,Backstroke,2017,7
+Madeleine,Stubner,10,FLOWER VALLEY,18.50,Girls,25,Backstroke,2017,7
+Felicity,Yetter,10,WILDWOOD MANOR,18.59,Girls,25,Backstroke,2017,7
+Olivia,Infante,10,ROCKVILLE,18.65,Girls,25,Backstroke,2017,7
+Sophia,Shad,10,STONEBRIDGE,18.84,Girls,25,Backstroke,2017,7
+Kelly Nicole,Holcomb,10,WHETSTONE,18.91,Girls,25,Backstroke,2017,7
+Brooke,Jones,10,MILL CREEK TOWNE,19.14,Girls,25,Backstroke,2017,7
+Healey,Morgan,10,SEVEN LOCKS,19.14,Girls,25,Backstroke,2017,7
+Annika,Varis,10,CLARKSBURG VILLAGE,19.22,Girls,25,Backstroke,2017,7
+Angelica,Hu,10,REGENCY ESTATES,19.49,Girls,25,Backstroke,2017,7
+Jase,Ashkin,18,KING FARM,56.31,Men,100,Backstroke,2017,7
+Griffin,Alaniz,17,CONNECTICUT BELAIR,56.93,Men,100,Backstroke,2017,7
+Nozomi,Horikawa,17,TILDEN WOODS,58.20,Men,100,Backstroke,2017,7
+Michael,Wong,16,GERMANTOWN,59.34,Men,100,Backstroke,2017,7
+Alex,Munson,18,HALLOWELL,59.52,Men,100,Backstroke,2017,7
+Jack,Rose,15,WOODLEY GARDENS,59.77,Men,100,Backstroke,2017,7
+Sebastian,Chang,15,WOODCLIFFE,1:00.28,Men,100,Backstroke,2017,7
+de Colstoun Thomas,Brown,17,NORTHWEST BRANCH,1:00.33,Men,100,Backstroke,2017,7
+Nathan,Watts,15,FLOWER VALLEY,1:00.65,Men,100,Backstroke,2017,7
+Jonathan,Mendley,16,WOODLEY GARDENS,1:01.49,Men,100,Backstroke,2017,7
+Andy,Rothstein,17,TALLYHO,1:01.83,Men,100,Backstroke,2017,7
+Andrei,Schwartz,15,ROCKVILLE,1:01.84,Men,100,Backstroke,2017,7
+Mac Patrick,Adelman,16,DARNESTOWN,1:02.61,Men,100,Backstroke,2017,7
+Will,Sherman,17,COUNTRY GLEN,1:02.80,Men,100,Backstroke,2017,7
+Brady,Ott,16,STONEGATE,1:03.88,Men,100,Backstroke,2017,7
+Patrick,Hedquist,17,NORTH CREEK,1:04.26,Men,100,Backstroke,2017,7
+Elaina,Gu,18,ROCKVILLE,1:05.71,Women,100,Backstroke,2017,7
+Kiki,Bonetta-Misteli,16,GARRETT PARK,1:06.52,Women,100,Backstroke,2017,7
+Katie,Smith,17,BETHESDA,1:07.05,Women,100,Backstroke,2017,7
+Meghan,Karl,18,FLOWER VALLEY,1:07.56,Women,100,Backstroke,2017,7
+Grace,Sun,17,ROCKVILLE,1:07.64,Women,100,Backstroke,2017,7
+Grace,Goetcheus,18,CEDARBROOK,1:07.66,Women,100,Backstroke,2017,7
+Sophie,Reilly,15,PALISADES,1:08.15,Women,100,Backstroke,2017,7
+Holly,Greenleaf,15,NORTHWEST BRANCH,1:08.22,Women,100,Backstroke,2017,7
+Anna McKenzie,Brown,16,DARNESTOWN,1:08.44,Women,100,Backstroke,2017,7
+Helen,Kent,18,WOODLEY GARDENS,1:08.77,Women,100,Backstroke,2017,7
+Katherine,Chlopak,15,SOMERSET,1:09.02,Women,100,Backstroke,2017,7
+Audrey,Richter,17,NORBECK HILLS,1:09.19,Women,100,Backstroke,2017,7
+Kennedy,Nolan,15,TANTERRA,1:09.83,Women,100,Backstroke,2017,7
+Bridget Ann,Laas,15,GLENWOOD,1:09.97,Women,100,Backstroke,2017,7
+Audrey,Tirrell,15,MANCHESTER FARM,1:10.16,Women,100,Backstroke,2017,7
+Birgitt,O'Connor,18,WATERS LANDING,1:11.45,Women,100,Backstroke,2017,7
+Cole,Greenberg,12,QUINCE ORCHARD,31.54,Boys,50,Backstroke,2017,7
+Alexander,Chen,12,CLARKSBURG VILLAGE,32.47,Boys,50,Backstroke,2017,7
+Joshua,Hou,12,ROCKVILLE,32.68,Boys,50,Backstroke,2017,7
+Nikita,Bityutskiy,12,BETHESDA,32.71,Boys,50,Backstroke,2017,7
+Jason,Bretz,12,RIVER FALLS,32.96,Boys,50,Backstroke,2017,7
+Konnor,Chen,11,GERMANTOWN,33.50,Boys,50,Backstroke,2017,7
+Collin,McKenzie,12,DALEVIEW,33.73,Boys,50,Backstroke,2017,7
+Wagener Jackson,Van,12,WILDWOOD MANOR,34.10,Boys,50,Backstroke,2017,7
+Andrew,O'Brien,12,BANNOCKBURN,34.15,Boys,50,Backstroke,2017,7
+Leo,Seen,12,UPPER COUNTY,34.32,Boys,50,Backstroke,2017,7
+Jordan,Zhang,12,STONEBRIDGE,34.38,Boys,50,Backstroke,2017,7
+Fletcher,Bautz,11,TALLYHO,34.46,Boys,50,Backstroke,2017,7
+Alexander,Karayianis,12,TALLYHO,34.91,Boys,50,Backstroke,2017,7
+Usim,Odim,12,POTOMAC WOODS,34.94,Boys,50,Backstroke,2017,7
+Casey,Meretta,12,COUNTRY GLEN,35.47,Boys,50,Backstroke,2017,7
+Reed,Stiles,12,LAKELANDS,36.10,Boys,50,Backstroke,2017,7
+Sophie,Duncan,12,BANNOCKBURN,32.39,Girls,50,Backstroke,2017,7
+Delia,Vanderzon,12,SOMERSET,32.80,Girls,50,Backstroke,2017,7
+Amaya,Daniel,12,FOREST KNOLLS,32.82,Girls,50,Backstroke,2017,7
+Ella Donya,Myers,12,KING FARM,33.96,Girls,50,Backstroke,2017,7
+Erin,Dougherty,12,RIVER FALLS,33.99,Girls,50,Backstroke,2017,7
+Katherine,Blake,12,WOODLEY GARDENS,34.09,Girls,50,Backstroke,2017,7
+Nina,Allen,11,STONEGATE,34.34,Girls,50,Backstroke,2017,7
+Annabella,Opipari,12,TILDEN WOODS,34.53,Girls,50,Backstroke,2017,7
+Eleanor,Sun,11,KING FARM,34.66,Girls,50,Backstroke,2017,7
+Sofia,Thomas,11,MERRIMACK PARK,34.98,Girls,50,Backstroke,2017,7
+Colleen,Kincaid,12,ROBIN HOOD,35.02,Girls,50,Backstroke,2017,7
+Isabelle,Hirschberger,11,TALLYHO,35.41,Girls,50,Backstroke,2017,7
+Maren,Conze,11,GARRETT PARK,35.45,Girls,50,Backstroke,2017,7
+Megan,Zeng,11,GERMANTOWN,36.16,Girls,50,Backstroke,2017,7
+Julia,Flick,12,CALVERTON,36.76,Girls,50,Backstroke,2017,7
+Josephina,Wang,11,ROCKVILLE,37.03,Girls,50,Backstroke,2017,7
+Brett,Feyerick,13,TALLYHO,27.55,Boys,50,Backstroke,2017,7
+Harrison,Oehler,14,WOODLEY GARDENS,29.11,Boys,50,Backstroke,2017,7
+Maximillano,Casey-Bolanos,14,NORTHWEST BRANCH,29.35,Boys,50,Backstroke,2017,7
+Noah,Rutberg,13,REGENCY ESTATES,30.03,Boys,50,Backstroke,2017,7
+Nicholas,Karayianis,14,TALLYHO,30.08,Boys,50,Backstroke,2017,7
+Anthony,Qin,14,STONEBRIDGE,30.26,Boys,50,Backstroke,2017,7
+Niles,Egan,14,NORTH CHEVY CHASE,30.83,Boys,50,Backstroke,2017,7
+Mark,Lattner,14,DAMASCUS,31.03,Boys,50,Backstroke,2017,7
+Matthew,Laclef,14,WILDWOOD MANOR,31.03,Boys,50,Backstroke,2017,7
+Andrew,Loayza,14,NORBECK HILLS,31.24,Boys,50,Backstroke,2017,7
+James,Collishaw,13,OLD GEORGETOWN,31.33,Boys,50,Backstroke,2017,7
+Dolan,Plummer,13,ELDWICK,31.36,Boys,50,Backstroke,2017,7
+Joshua,Roberts,14,MOHICAN,31.70,Boys,50,Backstroke,2017,7
+Eamon,Smith,13,CONNECTICUT BELAIR,32.04,Boys,50,Backstroke,2017,7
+Noah,Ferguson,14,STONEGATE,32.97,Boys,50,Backstroke,2017,7
+Sean,Keller,14,CONNECTICUT BELAIR,33.40,Boys,50,Backstroke,2017,7
+Phoebe,Bacon,13,TALLYHO,28.23,Girls,50,Backstroke,2017,7
+Kate,Cosgrove,13,CONNECTICUT BELAIR,31.10,Girls,50,Backstroke,2017,7
+Tia,Thomas,13,STONEGATE,31.27,Girls,50,Backstroke,2017,7
+Anne,Morris,13,RIVER FALLS,31.33,Girls,50,Backstroke,2017,7
+Amanda,Liu,14,BETHESDA,31.68,Girls,50,Backstroke,2017,7
+Moshelle,Borjigin,14,GERMANTOWN,31.69,Girls,50,Backstroke,2017,7
+Megan,Sharkey,14,POTOMAC WOODS,32.65,Girls,50,Backstroke,2017,7
+Makenzie,Higgins,14,STONEBRIDGE,32.66,Girls,50,Backstroke,2017,7
+Abbey,Rose,14,TANTERRA,32.91,Girls,50,Backstroke,2017,7
+Sophie,Sanchez,13,ROCKVILLE,32.91,Girls,50,Backstroke,2017,7
+Katherine,Gould,13,TILDEN WOODS,32.94,Girls,50,Backstroke,2017,7
+Natalie,Dobrzykowski,14,NORBECK HILLS,33.00,Girls,50,Backstroke,2017,7
+Andie,Weitzman,14,QUINCE ORCHARD,33.28,Girls,50,Backstroke,2017,7
+Alexandra Helen,Edwing,14,DARNESTOWN,33.35,Girls,50,Backstroke,2017,7
+Jordan,Wallace,14,STONEGATE,33.48,Girls,50,Backstroke,2017,7
+Hannah,Harnois,14,KENTLANDS,33.59,Girls,50,Backstroke,2017,7
+Bouke,Edskes,18,ROCKVILLE,57.41,Men,100,IM,2017,7
+Eli,Fouts,16,QUINCE ORCHARD,58.38,Men,100,IM,2017,7
+Jack,Cosgrove,18,CONNECTICUT BELAIR,59.18,Men,100,IM,2017,7
+James,Flood,18,TALLYHO,59.99,Men,100,IM,2017,7
+Jacob,Halem,17,CLARKSBURG VILLAGE,1:00.87,Men,100,IM,2017,7
+Jase,Ashkin,18,KING FARM,1:01.23,Men,100,IM,2017,7
+Joseph,Turi,17,SOMERSET,1:01.29,Men,100,IM,2017,7
+Connor,Din,15,WOODLEY GARDENS,1:01.36,Men,100,IM,2017,7
+Theodore,Jagodits,16,POOLESVILLE,1:01.48,Men,100,IM,2017,7
+Aaron,Stanton,15,STONEGATE,1:01.84,Men,100,IM,2017,7
+William,Mudlaff,17,MERRIMACK PARK,1:01.85,Men,100,IM,2017,7
+Noah,Garvey,16,WOODCLIFFE,1:01.90,Men,100,IM,2017,7
+Simon,Li,17,GERMANTOWN,1:02.08,Men,100,IM,2017,7
+John,Sita,16,BETHESDA,1:02.23,Men,100,IM,2017,7
+Andrew,Omenitsch,17,CEDARBROOK,1:02.32,Men,100,IM,2017,7
+John,Jeang,18,ROCKVILLE,1:03.38,Men,100,IM,2017,7
+Maddy,Zarchin,17,LAKELANDS,1:06.64,Girls,100,IM,2017,7
+Margaret,Wolfson,17,CEDARBROOK,1:07.17,Girls,100,IM,2017,7
+Sammie,Grant,15,DALEVIEW,1:07.21,Girls,100,IM,2017,7
+Madison,Waechter,17,FRANKLIN KNOLLS,1:07.24,Girls,100,IM,2017,7
+Claire,Luigard,18,DALEVIEW,1:07.80,Girls,100,IM,2017,7
+Hannah,Gould,15,TILDEN WOODS,1:08.43,Girls,100,IM,2017,7
+Jaimy,Wenhold,17,TANTERRA,1:08.56,Girls,100,IM,2017,7
+Grace,Goetcheus,18,CEDARBROOK,1:08.65,Girls,100,IM,2017,7
+Melanie,Doan,18,STONEGATE,1:08.86,Girls,100,IM,2017,7
+Cassandra,Sanidad,15,STONEGATE,1:09.13,Girls,100,IM,2017,7
+Grace,Sun,17,ROCKVILLE,1:09.36,Girls,100,IM,2017,7
+Grace,Giddings,15,OLNEY MILL,1:10.03,Girls,100,IM,2017,7
+Kelsy,Song,18,WOODCLIFFE,1:10.46,Girls,100,IM,2017,7
+Fanny,Wu,17,WOODCLIFFE,1:10.50,Girls,100,IM,2017,7
+Allison,Wade,15,HALLOWELL,1:11.41,Girls,100,IM,2017,7
+Kiki,Bonetta-Misteli,16,GARRETT PARK,1:13.50,Girls,100,IM,2017,7
+Ryan,Franck,8,FOREST KNOLLS,22.31,Boys,25,Breaststroke,2017,7
+Justin,Harris,8,DIAMOND FARM,22.35,Boys,25,Breaststroke,2017,7
+Maxwell,Bagshaw,8,CEDARBROOK,22.93,Boys,25,Breaststroke,2017,7
+Cory,Gatons,8,WESTLEIGH,23.01,Boys,25,Breaststroke,2017,7
+Christopher,Beukema,8,KENMONT,23.02,Boys,25,Breaststroke,2017,7
+Edward,Chi,8,REGENCY ESTATES,23.59,Boys,25,Breaststroke,2017,7
+Oliver,Lutz,8,CONNECTICUT BELAIR,24.11,Boys,25,Breaststroke,2017,7
+Griffin,Oehler,7,WOODLEY GARDENS,24.40,Boys,25,Breaststroke,2017,7
+Allen,Zhang,8,BETHESDA,24.44,Boys,25,Breaststroke,2017,7
+Adam,Kessler,8,NORTH CHEVY CHASE,24.44,Boys,25,Breaststroke,2017,7
+Matthew,Fisher,8,COUNTRY GLEN,24.45,Boys,25,Breaststroke,2017,7
+Alex,Chandran,8,FLOWER HILL,24.78,Boys,25,Breaststroke,2017,7
+Jack,Morin,8,CALVERTON,24.96,Boys,25,Breaststroke,2017,7
+Seamus,Rooney,8,FRANKLIN KNOLLS,25.02,Boys,25,Breaststroke,2017,7
+Khoi,Nguyen,8,TANGLEWOOD,25.41,Boys,25,Breaststroke,2017,7
+Niccolo,Petrilli,8,MOHICAN,25.97,Boys,25,Breaststroke,2017,7
+Althea,Bush,8,REGENCY ESTATES,22.36,Girls,25,Breaststroke,2017,7
+Isabella,Balderama,8,QUAIL VALLEY,22.58,Girls,25,Breaststroke,2017,7
+Olivia,Otte,8,ROCK CREEK,22.83,Girls,25,Breaststroke,2017,7
+Julie,Yang,8,ROCKVILLE,22.99,Girls,25,Breaststroke,2017,7
+Arya,Gupta,8,TALLYHO,23.18,Girls,25,Breaststroke,2017,7
+Grace,Krupinski,8,CONNECTICUT BELAIR,23.84,Girls,25,Breaststroke,2017,7
+Kimberley,Trang,8,GLENMONT,23.92,Girls,25,Breaststroke,2017,7
+Minjae,Haughton,8,CLARKSBURG TOWN CENTER,24.32,Girls,25,Breaststroke,2017,7
+Elise,Wratney,8,CEDARBROOK,24.54,Girls,25,Breaststroke,2017,7
+Samantha,Arias,8,LAKE MARION,24.55,Girls,25,Breaststroke,2017,7
+Nicole,Bocek,8,POOLESVILLE,24.62,Girls,25,Breaststroke,2017,7
+Rachael,Henske,8,TALLYHO,24.96,Girls,25,Breaststroke,2017,7
+Helen,James,8,TILDEN WOODS,25.13,Girls,25,Breaststroke,2017,7
+Sophie,Grahl,8,STONEGATE,25.20,Girls,25,Breaststroke,2017,7
+Angie,Varughese,8,ROCKVILLE,25.79,Girls,25,Breaststroke,2017,7
+Iris,Chakiath,8,MANCHESTER FARM,25.88,Girls,25,Breaststroke,2017,7
+Harrison,Quach,10,STONEGATE,18.05,Boys,25,Breaststroke,2017,7
+Cole,Hilton,10,WOODCLIFFE,18.21,Boys,25,Breaststroke,2017,7
+Alexander,Wen,10,REGENCY ESTATES,18.23,Boys,25,Breaststroke,2017,7
+Federico,Sanidad,9,STONEGATE,18.89,Boys,25,Breaststroke,2017,7
+John,Frank,9,CONNECTICUT BELAIR,19.00,Boys,25,Breaststroke,2017,7
+Charles,O'Shea,10,CEDARBROOK,19.05,Boys,25,Breaststroke,2017,7
+Adam,Zennia,10,KENMONT,19.16,Boys,25,Breaststroke,2017,7
+Thomas,Pelletier,10,REGENCY ESTATES,19.59,Boys,25,Breaststroke,2017,7
+Steven,Wang,10,POTOMAC GLEN,19.67,Boys,25,Breaststroke,2017,7
+Linus,Ament,10,MANOR WOODS,19.70,Boys,25,Breaststroke,2017,7
+Haden,Rogers,10,TILDEN WOODS,19.76,Boys,25,Breaststroke,2017,7
+Tyler,Coapstick,9,WESTLEIGH,19.84,Boys,25,Breaststroke,2017,7
+John,Yuan,10,OLD GEORGETOWN,19.98,Boys,25,Breaststroke,2017,7
+Jordan,Kelly,10,ROCKSHIRE,20.27,Boys,25,Breaststroke,2017,7
+Brian,Wilbur,10,OLNEY MILL,20.74,Boys,25,Breaststroke,2017,7
+Lucien,Johnson,9,KENMONT,20.90,Boys,25,Breaststroke,2017,7
+Anna Wei,Li,10,WOODCLIFFE,17.74,Girls,25,Breaststroke,2017,7
+Felicity,Yetter,10,WILDWOOD MANOR,18.44,Girls,25,Breaststroke,2017,7
+Yara,Olsen,10,WILDWOOD MANOR,18.69,Girls,25,Breaststroke,2017,7
+Emma,Lantry,9,KENMONT,19.06,Girls,25,Breaststroke,2017,7
+Scarlett,Stasko,10,KENTLANDS,19.62,Girls,25,Breaststroke,2017,7
+Natalya,Freeman,10,SOMERSET,19.87,Girls,25,Breaststroke,2017,7
+Reagan,Phillips,10,OLD FARM,19.94,Girls,25,Breaststroke,2017,7
+Lauren,Connelly,10,WILDWOOD MANOR,20.22,Girls,25,Breaststroke,2017,7
+Sophia,Iorio,10,DAMASCUS,20.24,Girls,25,Breaststroke,2017,7
+Ruqayyah,Abouraya,9,MANCHESTER FARM,20.38,Girls,25,Breaststroke,2017,7
+Isla,Bartholomew,9,WILDWOOD MANOR,20.62,Girls,25,Breaststroke,2017,7
+Josephine,Panner,10,SOMERSET,20.64,Girls,25,Breaststroke,2017,7
+Sidney,Thompson,10,ROCKSHIRE,20.70,Girls,25,Breaststroke,2017,7
+Erin,O'Donnell,9,WHETSTONE,20.80,Girls,25,Breaststroke,2017,7
+Kathleen,Blass,10,RIVER FALLS,20.98,Girls,25,Breaststroke,2017,7
+Isabella,Grijalba,9,GLENMONT,21.04,Girls,25,Breaststroke,2017,7
+David,Fitch,12,POTOMAC,32.79,Boys,50,Breaststroke,2017,7
+Benjamin,Nachod,12,GERMANTOWN,34.15,Boys,50,Breaststroke,2017,7
+Sean,Santos,12,HALLOWELL,34.33,Boys,50,Breaststroke,2017,7
+James,Marder,12,LITTLE FALLS,34.62,Boys,50,Breaststroke,2017,7
+Denis,Kalinin,12,ROCKVILLE,35.99,Boys,50,Breaststroke,2017,7
+Harrison F.,Cerone,12,DARNESTOWN,36.76,Boys,50,Breaststroke,2017,7
+Justin,yi,12,WOODCLIFFE,37.06,Boys,50,Breaststroke,2017,7
+Orion,Foo,12,CLARKSBURG TOWN CENTER,37.62,Boys,50,Breaststroke,2017,7
+Ethan,Fu,11,ROCKVILLE,37.95,Boys,50,Breaststroke,2017,7
+Alvin,Kimwon,12,ROCKVILLE,38.01,Boys,50,Breaststroke,2017,7
+Nadav,Golan,12,NORBECK HILLS,38.21,Boys,50,Breaststroke,2017,7
+Dan Wei,Zuo,11,TALLYHO,38.45,Boys,50,Breaststroke,2017,7
+Neo,Matsuyama,11,SEVEN LOCKS,38.58,Boys,50,Breaststroke,2017,7
+Martin,Soros,12,WILDWOOD MANOR,39.11,Boys,50,Breaststroke,2017,7
+Aidan Robert,Goettsch,12,KENTLANDS,39.56,Boys,50,Breaststroke,2017,7
+Joseph,Yi,12,GLENMONT,39.84,Boys,50,Breaststroke,2017,7
+Carly,Sebring,11,DAMASCUS,36.18,Girls,50,Breaststroke,2017,7
+Joyce,Wu,11,KING FARM,36.54,Girls,50,Breaststroke,2017,7
+Eleanor,Sun,11,KING FARM,38.47,Girls,50,Breaststroke,2017,7
+Elena,Harrison,11,RIVER FALLS,38.79,Girls,50,Breaststroke,2017,7
+Miranda,Sanidad,11,STONEGATE,38.98,Girls,50,Breaststroke,2017,7
+Rin,Iimi,12,ROCKVILLE,39.10,Girls,50,Breaststroke,2017,7
+Gabrielle,Johnson,12,KENMONT,39.34,Girls,50,Breaststroke,2017,7
+Francesca,Venditti,12,COUNTRY GLEN,39.45,Girls,50,Breaststroke,2017,7
+Sophia,Marchionini,12,FRANKLIN KNOLLS,39.51,Girls,50,Breaststroke,2017,7
+Emma,Dorsey,12,OLNEY MILL,39.63,Girls,50,Breaststroke,2017,7
+Stephanie,Zoltick,12,INVERNESS RECREATION CLUB,39.76,Girls,50,Breaststroke,2017,7
+Audrey,Csokmay,11,POTOMAC WOODS,39.88,Girls,50,Breaststroke,2017,7
+Karis Elise,Noboa,11,TALLYHO,39.95,Girls,50,Breaststroke,2017,7
+Laura,See,12,FALLSMEAD,39.96,Girls,50,Breaststroke,2017,7
+Jacqueline,Curtis,12,STONEGATE,40.05,Girls,50,Breaststroke,2017,7
+Christy,Trang,12,GLENMONT,40.36,Girls,50,Breaststroke,2017,7
+Zach,Bayler,14,ROBIN HOOD,31.55,Boys,50,Breaststroke,2017,7
+Michael,Penafiel,14,KENMONT,32.48,Boys,50,Breaststroke,2017,7
+Joseph Alfredo,Nonato,14,CLOPPER MILL KINGSVIEW,32.67,Boys,50,Breaststroke,2017,7
+Charlie,Mulholland,14,WOODLEY GARDENS,33.45,Boys,50,Breaststroke,2017,7
+Michael,Paulos,14,PALISADES,33.53,Boys,50,Breaststroke,2017,7
+Ben Long,Zuo,13,TALLYHO,33.73,Boys,50,Breaststroke,2017,7
+Dylan,Danaie,13,COUNTRY GLEN,33.89,Boys,50,Breaststroke,2017,7
+Christopher,Trahern,14,MILL CREEK TOWNE,33.96,Boys,50,Breaststroke,2017,7
+Marrick,Golladay,14,FRANKLIN KNOLLS,34.03,Boys,50,Breaststroke,2017,7
+Evan,McLaughlin,14,WESTLEIGH,34.24,Boys,50,Breaststroke,2017,7
+Sean Ryan,McCaffrey,14,GLENWOOD,34.59,Boys,50,Breaststroke,2017,7
+Kyle,Lawson,13,BETHESDA,34.65,Boys,50,Breaststroke,2017,7
+Rory,Stumpf,14,POTOMAC,34.75,Boys,50,Breaststroke,2017,7
+Benjamin,Kane,14,GARRETT PARK,35.00,Boys,50,Breaststroke,2017,7
+Cole,Bagshaw,14,CEDARBROOK,35.06,Boys,50,Breaststroke,2017,7
+William Theodore,Ginter,13,GLENWOOD,36.52,Boys,50,Breaststroke,2017,7
+Madeline,Mara,14,ROCKVILLE,33.74,Girls,50,Breaststroke,2017,7
+Alison,Kaiser,13,REGENCY ESTATES,35.24,Girls,50,Breaststroke,2017,7
+Jolie,LeFauve,14,ROCKVILLE,35.29,Girls,50,Breaststroke,2017,7
+Sarah,Elliott,14,GERMANTOWN,35.56,Girls,50,Breaststroke,2017,7
+Hannah,Owings,13,ROBIN HOOD,35.67,Girls,50,Breaststroke,2017,7
+Amanda,Wenhold,14,TANTERRA,35.70,Girls,50,Breaststroke,2017,7
+Caroline,Howley,14,POTOMAC WOODS,36.04,Girls,50,Breaststroke,2017,7
+Jane,Umhofer,13,WILDWOOD MANOR,36.28,Girls,50,Breaststroke,2017,7
+Megan Noel,Nonato,13,CLOPPER MILL KINGSVIEW,36.39,Girls,50,Breaststroke,2017,7
+Riley,Powell,13,MILL CREEK TOWNE,36.69,Girls,50,Breaststroke,2017,7
+Brianna,Sanidad,14,STONEGATE,36.73,Girls,50,Breaststroke,2017,7
+Sarah,Johnson,14,MOHICAN,36.87,Girls,50,Breaststroke,2017,7
+Anastasia,Belyakov,13,NORTH CREEK,37.05,Girls,50,Breaststroke,2017,7
+Helena,Narisu,14,NORTH CREEK,37.30,Girls,50,Breaststroke,2017,7
+Leah,Kannan,13,BETHESDA,37.66,Girls,50,Breaststroke,2017,7
+Emma,Nickel,13,QUINCE ORCHARD,37.80,Girls,50,Breaststroke,2017,7
+Eli,Fouts,16,QUINCE ORCHARD,1:02.79,Men,100,Breaststroke,2017,7
+Alexander,Vissering,17,OLD GEORGETOWN,1:04.69,Men,100,Breaststroke,2017,7
+James,Flood,18,TALLYHO,1:05.15,Men,100,Breaststroke,2017,7
+Noah,Garvey,16,WOODCLIFFE,1:05.42,Men,100,Breaststroke,2017,7
+Aaron,Stanton,15,STONEGATE,1:06.68,Men,100,Breaststroke,2017,7
+Ethan,Amitay,18,FOREST KNOLLS,1:08.40,Men,100,Breaststroke,2017,7
+John,Sita,16,BETHESDA,1:08.49,Men,100,Breaststroke,2017,7
+Christopher,Emerson,16,WILDWOOD MANOR,1:08.71,Men,100,Breaststroke,2017,7
+Ben David,Kaplan,17,DARNESTOWN,1:08.84,Men,100,Breaststroke,2017,7
+Nick,Fitzwilliam,17,CLOPPER MILL KINGSVIEW,1:09.15,Men,100,Breaststroke,2017,7
+Teague,Sauter,17,FOREST KNOLLS,1:09.36,Men,100,Breaststroke,2017,7
+Luke,Xia,15,UPPER COUNTY,1:09.96,Men,100,Breaststroke,2017,7
+Steven,Mendley,15,ROCKVILLE,1:11.39,Men,100,Breaststroke,2017,7
+Drew,Gerber,18,COUNTRY GLEN,1:11.60,Men,100,Breaststroke,2017,7
+Jaycee Mallory,Yegher,17,DARNESTOWN,1:09.46,Girls,100,Breaststroke,2017,7
+Cassandra,Sanidad,15,STONEGATE,1:13.51,Girls,100,Breaststroke,2017,7
+Margaret,Wolfson,17,CEDARBROOK,1:13.86,Girls,100,Breaststroke,2017,7
+Claire,Luigard,18,DALEVIEW,1:14.16,Girls,100,Breaststroke,2017,7
+Ashley,Piepol,17,TILDEN WOODS,1:15.78,Girls,100,Breaststroke,2017,7
+Grace,Wu,15,KING FARM,1:16.69,Girls,100,Breaststroke,2017,7
+Allison,Wade,15,HALLOWELL,1:16.81,Girls,100,Breaststroke,2017,7
+Melanie,Doan,18,STONEGATE,1:16.99,Girls,100,Breaststroke,2017,7
+Joelle,Rosen,16,RIVER FALLS,1:17.12,Girls,100,Breaststroke,2017,7
+Caroline,Karson,15,ROCK CREEK,1:17.33,Girls,100,Breaststroke,2017,7
+Kristen,Toth,18,ASHTON,1:17.36,Girls,100,Breaststroke,2017,7
+Jaimy,Wenhold,17,TANTERRA,1:18.32,Girls,100,Breaststroke,2017,7
+Katie Suellyn,Flynn,16,GLENWOOD,1:18.46,Girls,100,Breaststroke,2017,7
+Grace,Giddings,15,OLNEY MILL,1:19.12,Girls,100,Breaststroke,2017,7
+Mollie,Bauer,15,ROBIN HOOD,1:19.57,Girls,100,Breaststroke,2017,7
+Gail Frances,Anderson,17,GLENWOOD,1:20.56,Girls,100,Breaststroke,2017,7
+Kazuki,Nagao,8,QUINCE ORCHARD,17.85,Boys,25,Butterfly,2017,7
+Brig,Barnett,8,FLOWER VALLEY,18.40,Boys,25,Butterfly,2017,7
+Xzavier,Torrejon,8,ROCKVILLE,18.59,Boys,25,Butterfly,2017,7
+William,Morgan,7,SEVEN LOCKS,18.82,Boys,25,Butterfly,2017,7
+Reid,Weltman,8,TALLYHO,18.95,Boys,25,Butterfly,2017,7
+Sebastian,Ament,8,MANOR WOODS,19.10,Boys,25,Butterfly,2017,7
+Kevin,Doan,8,ROCKVILLE,19.58,Boys,25,Butterfly,2017,7
+Cory,Gatons,8,WESTLEIGH,19.64,Boys,25,Butterfly,2017,7
+Oliver,Lutz,8,CONNECTICUT BELAIR,19.70,Boys,25,Butterfly,2017,7
+Charlie,Begin,8,COUNTRY GLEN,20.11,Boys,25,Butterfly,2017,7
+Colton,Mettler,7,LAKE MARION,20.89,Boys,25,Butterfly,2017,7
+Trevor,Donley,7,TANGLEWOOD,21.19,Boys,25,Butterfly,2017,7
+Aydan,Lee,8,POTOMAC GLEN,22.14,Boys,25,Butterfly,2017,7
+Braxton,Cobbs,8,CLARKSBURG VILLAGE,22.27,Boys,25,Butterfly,2017,7
+Eric,Huang,8,MANCHESTER FARM,22.47,Boys,25,Butterfly,2017,7
+Adam,Abzakh,8,POOLESVILLE,23.55,Boys,25,Butterfly,2017,7
+Eileen,Cosgrove,8,CONNECTICUT BELAIR,17.70,Girls,25,Butterfly,2017,7
+Darya,Zalalutdinov,8,STONEGATE,17.83,Girls,25,Butterfly,2017,7
+Gabriela,Kaiser,8,REGENCY ESTATES,18.03,Girls,25,Butterfly,2017,7
+Julie,Yang,8,ROCKVILLE,18.59,Girls,25,Butterfly,2017,7
+Paige,Schulz,8,KENMONT,18.97,Girls,25,Butterfly,2017,7
+Maria,Webb,8,QUAIL VALLEY,18.99,Girls,25,Butterfly,2017,7
+Lilian,Congdon,8,ROCKVILLE,19.60,Girls,25,Butterfly,2017,7
+Samantha,Arias,8,LAKE MARION,19.83,Girls,25,Butterfly,2017,7
+Grace,Krupinski,8,CONNECTICUT BELAIR,19.88,Girls,25,Butterfly,2017,7
+Alyssa,Baumann,8,FRANKLIN KNOLLS,19.90,Girls,25,Butterfly,2017,7
+Julia,Boardman,8,OLNEY MILL,20.14,Girls,25,Butterfly,2017,7
+Stephanie,Marks,8,WASHINGTONIAN WOODS,20.27,Girls,25,Butterfly,2017,7
+Virginia,Hinds,8,CHEVY CHASE RECREATION ASSOCIA,20.38,Girls,25,Butterfly,2017,7
+Ella,Crown,8,CLOPPER MILL KINGSVIEW,20.78,Girls,25,Butterfly,2017,7
+Zoe,Gondi,8,FRANKLIN KNOLLS,20.94,Girls,25,Butterfly,2017,7
+Sophie,Castro,8,MANCHESTER FARM,22.01,Girls,25,Butterfly,2017,7
+Samir,Elkassem,10,COUNTRY GLEN,15.02,Boys,25,Butterfly,2017,7
+Nasim,Elkassem,10,COUNTRY GLEN,15.15,Boys,25,Butterfly,2017,7
+Adriano,Arioti,9,ROCKVILLE,15.76,Boys,25,Butterfly,2017,7
+Brady,Begin,10,COUNTRY GLEN,15.86,Boys,25,Butterfly,2017,7
+Thomas,Pelletier,10,REGENCY ESTATES,15.88,Boys,25,Butterfly,2017,7
+Wesley,Brandt,10,NORTHWEST BRANCH,16.16,Boys,25,Butterfly,2017,7
+Owen,Watkins,10,DARNESTOWN,16.22,Boys,25,Butterfly,2017,7
+Michael,Kaiser,10,REGENCY ESTATES,16.40,Boys,25,Butterfly,2017,7
+Thomas,Hatchett,10,SEVEN LOCKS,16.43,Boys,25,Butterfly,2017,7
+Junwoo,Kim,10,INVERNESS RECREATION CLUB,16.45,Boys,25,Butterfly,2017,7
+Steven,Wang,10,POTOMAC GLEN,16.46,Boys,25,Butterfly,2017,7
+James,Deffinbaugh,10,NORBECK GROVE,16.50,Boys,25,Butterfly,2017,7
+Max,Schaupp,10,MILL CREEK TOWNE,16.52,Boys,25,Butterfly,2017,7
+Kyle,Wang,9,REGENCY ESTATES,16.80,Boys,25,Butterfly,2017,7
+Finn,Bacon,10,TALLYHO,17.01,Boys,25,Butterfly,2017,7
+Lucas,Quiroga,10,HALLOWELL,17.09,Boys,25,Butterfly,2017,7
+Cameron,Spinner,10,MANCHESTER FARM,15.49,Girls,25,Butterfly,2017,7
+Anna Wei,Li,10,WOODCLIFFE,15.54,Girls,25,Butterfly,2017,7
+Yara,Olsen,10,WILDWOOD MANOR,16.05,Girls,25,Butterfly,2017,7
+Ainsley,Taylor,9,KENTLANDS,16.17,Girls,25,Butterfly,2017,7
+Sophie,Linkie,10,OLD FARM,16.52,Girls,25,Butterfly,2017,7
+Sophia,Shad,10,STONEBRIDGE,16.53,Girls,25,Butterfly,2017,7
+Adrianna,Caponiti,9,TWIN FARMS,16.64,Girls,25,Butterfly,2017,7
+Campbell,Scofield,9,MONTGOMERY SQUARE,16.85,Girls,25,Butterfly,2017,7
+Annika,Varis,10,CLARKSBURG VILLAGE,17.07,Girls,25,Butterfly,2017,7
+Natalie,Webb,10,QUAIL VALLEY,17.16,Girls,25,Butterfly,2017,7
+Alisa,Daniel,9,FOREST KNOLLS,17.30,Girls,25,Butterfly,2017,7
+Rachel Madison,Katz,10,QUINCE ORCHARD,17.41,Girls,25,Butterfly,2017,7
+Jaynna,Crocker,10,MILL CREEK TOWNE,17.53,Girls,25,Butterfly,2017,7
+Isabel,Mao,10,CLOPPER MILL KINGSVIEW,17.55,Girls,25,Butterfly,2017,7
+Kelly Nicole,Holcomb,10,WHETSTONE,17.62,Girls,25,Butterfly,2017,7
+Madeleine,Stubner,10,FLOWER VALLEY,17.94,Girls,25,Butterfly,2017,7
+Josh,Wolfson,12,TALLYHO,29.92,Boys,50,Butterfly,2017,7
+Jordan,Webster,12,MILL CREEK TOWNE,30.80,Boys,50,Butterfly,2017,7
+Maxwell Falin,Chen,12,WOODCLIFFE,31.00,Boys,50,Butterfly,2017,7
+Everett,Oehler,12,WOODLEY GARDENS,31.24,Boys,50,Butterfly,2017,7
+Nikita,Bityutskiy,12,BETHESDA,31.70,Boys,50,Butterfly,2017,7
+Parker,Koenig,11,OLD GEORGETOWN,32.08,Boys,50,Butterfly,2017,7
+Konnor,Chen,11,GERMANTOWN,32.21,Boys,50,Butterfly,2017,7
+Nathan,Beukema,12,KENMONT,32.41,Boys,50,Butterfly,2017,7
+Alex,Wolfson,12,CEDARBROOK,32.42,Boys,50,Butterfly,2017,7
+Karim,Elkassem,12,COUNTRY GLEN,32.63,Boys,50,Butterfly,2017,7
+Kristopher,Lawson,11,BETHESDA,32.66,Boys,50,Butterfly,2017,7
+Fletcher,Bautz,11,TALLYHO,33.00,Boys,50,Butterfly,2017,7
+Julio,Torrejon,12,ROCKVILLE,33.08,Boys,50,Butterfly,2017,7
+Leo,Seen,12,UPPER COUNTY,33.60,Boys,50,Butterfly,2017,7
+Casey,Meretta,12,COUNTRY GLEN,33.95,Boys,50,Butterfly,2017,7
+Ethan,Fu,11,ROCKVILLE,34.75,Boys,50,Butterfly,2017,7
+Giulia,Baroldi,12,POTOMAC GLEN,29.76,Girls,50,Butterfly,2017,7
+Erin,Dougherty,12,RIVER FALLS,30.92,Girls,50,Butterfly,2017,7
+Jillian,Berger,12,LITTLE FALLS,31.03,Girls,50,Butterfly,2017,7
+Katherine,Blake,12,WOODLEY GARDENS,31.54,Girls,50,Butterfly,2017,7
+Katherine,Fleming,12,CARDEROCK SPRINGS,31.72,Girls,50,Butterfly,2017,7
+Clara,Attar,12,WILDWOOD MANOR,31.84,Girls,50,Butterfly,2017,7
+Cheyenne,Chen,12,HALLOWELL,31.88,Girls,50,Butterfly,2017,7
+Emily,Noll,12,MERRIMACK PARK,31.95,Girls,50,Butterfly,2017,7
+Delia,Vanderzon,12,SOMERSET,32.11,Girls,50,Butterfly,2017,7
+Annabella,Opipari,12,TILDEN WOODS,32.11,Girls,50,Butterfly,2017,7
+Sophie,Elliott,12,GERMANTOWN,32.36,Girls,50,Butterfly,2017,7
+Kayden,Austin-Vaias,12,CEDARBROOK,32.76,Girls,50,Butterfly,2017,7
+Sydney,Allen,11,STONEGATE,33.49,Girls,50,Butterfly,2017,7
+Kylie Garris,Morissette,12,WOODCLIFFE,33.49,Girls,50,Butterfly,2017,7
+Kailyn Lanae,Dickerson,12,CLOPPER MILL KINGSVIEW,33.67,Girls,50,Butterfly,2017,7
+Seneca,Simon,12,FOREST KNOLLS,33.74,Girls,50,Butterfly,2017,7
+Alan,Li,14,ROCKVILLE,26.67,Boys,50,Butterfly,2017,7
+Ryan,Gruner,14,STONEGATE,26.91,Boys,50,Butterfly,2017,7
+Zach,Bayler,14,ROBIN HOOD,27.25,Boys,50,Butterfly,2017,7
+Jacob,Lindner,14,LAKELANDS,27.30,Boys,50,Butterfly,2017,7
+Daniel,Wang,14,ROCKSHIRE,27.93,Boys,50,Butterfly,2017,7
+Matthew,Pottker,14,WILDWOOD MANOR,28.48,Boys,50,Butterfly,2017,7
+Trent,Schlosser,14,POTOMAC WOODS,29.04,Boys,50,Butterfly,2017,7
+Ben Long,Zuo,13,TALLYHO,29.06,Boys,50,Butterfly,2017,7
+Charlie,Mulholland,14,WOODLEY GARDENS,29.09,Boys,50,Butterfly,2017,7
+Hayes,Goetcheus,14,CEDARBROOK,29.18,Boys,50,Butterfly,2017,7
+Kyle,Lawson,13,BETHESDA,29.22,Boys,50,Butterfly,2017,7
+Ian Gunsel,Song,14,WOODCLIFFE,29.70,Boys,50,Butterfly,2017,7
+Pierre,Zeineddin,13,KENTLANDS,29.77,Boys,50,Butterfly,2017,7
+Jonathan,Crocker,14,MILL CREEK TOWNE,29.86,Boys,50,Butterfly,2017,7
+Aiden,Rooney,13,FRANKLIN KNOLLS,29.96,Boys,50,Butterfly,2017,7
+Patrick,Connelly,14,WILDWOOD MANOR,29.99,Boys,50,Butterfly,2017,7
+Phoebe,Bacon,13,TALLYHO,27.98,Girls,50,Butterfly,2017,7
+Maya,Fischer,14,EAST GATE,29.44,Girls,50,Butterfly,2017,7
+Catherine,Belyakov,13,NORTH CREEK,29.60,Girls,50,Butterfly,2017,7
+Kate,Cosgrove,13,CONNECTICUT BELAIR,30.03,Girls,50,Butterfly,2017,7
+Amanda,Liu,14,BETHESDA,30.05,Girls,50,Butterfly,2017,7
+Molly,Benson,13,GLENWOOD,30.31,Girls,50,Butterfly,2017,7
+Tatum,Zupnik,14,ROCK CREEK,30.46,Girls,50,Butterfly,2017,7
+Sarah,Elliott,14,GERMANTOWN,30.93,Girls,50,Butterfly,2017,7
+Abby,Graminski,13,WHETSTONE,30.96,Girls,50,Butterfly,2017,7
+Sarah,Johnson,14,MOHICAN,31.22,Girls,50,Butterfly,2017,7
+Natalie,Dobrzykowski,14,NORBECK HILLS,31.30,Girls,50,Butterfly,2017,7
+Samantha,Smith,13,SOMERSET,31.39,Girls,50,Butterfly,2017,7
+Victoria,Hayes,14,GERMANTOWN,31.86,Girls,50,Butterfly,2017,7
+Kelly,Reid,14,MILL CREEK TOWNE,31.89,Girls,50,Butterfly,2017,7
+Grace,Burgett,14,TILDEN WOODS,32.05,Girls,50,Butterfly,2017,7
+Nicole,Vanderzon,14,SOMERSET,32.19,Girls,50,Butterfly,2017,7
+Kevin,Berry,18,GARRETT PARK,25.21,Men,50,Butterfly,2017,7
+Bouke,Edskes,18,ROCKVILLE,25.25,Men,50,Butterfly,2017,7
+Griffin,Alaniz,17,CONNECTICUT BELAIR,25.29,Men,50,Butterfly,2017,7
+Nozomi,Horikawa,17,TILDEN WOODS,26.36,Men,50,Butterfly,2017,7
+Alex,Munson,18,HALLOWELL,26.52,Men,50,Butterfly,2017,7
+Danny,Calder,15,MOHICAN,26.75,Men,50,Butterfly,2017,7
+Alexander,Vissering,17,OLD GEORGETOWN,26.76,Men,50,Butterfly,2017,7
+Touzon Diego,Suarez,17,ROCK CREEK,26.77,Men,50,Butterfly,2017,7
+William,Mudlaff,17,MERRIMACK PARK,26.87,Men,50,Butterfly,2017,7
+David,Chang,16,POTOMAC GLEN,26.98,Men,50,Butterfly,2017,7
+Grayson,Blanchard,18,WATERS LANDING,27.23,Men,50,Butterfly,2017,7
+Michael,Wong,16,GERMANTOWN,27.30,Men,50,Butterfly,2017,7
+John,Jeang,18,ROCKVILLE,27.37,Men,50,Butterfly,2017,7
+Jack,Rose,15,WOODLEY GARDENS,27.43,Men,50,Butterfly,2017,7
+Ryan,Vipavetz,15,MIDDLEBRIDGE,27.51,Men,50,Butterfly,2017,7
+Karl,Treichel,18,ROCKVILLE,27.97,Men,50,Butterfly,2017,7
+Olivia,French,16,KENTLANDS,28.22,Women,50,Butterfly,2017,7
+Sydney,Kirsch,18,CEDARBROOK,28.77,Women,50,Butterfly,2017,7
+Maddy,Zarchin,17,LAKELANDS,28.93,Women,50,Butterfly,2017,7
+Sydney,Knapp,17,MANCHESTER FARM,29.38,Women,50,Butterfly,2017,7
+Catherine,Johnson,18,TWIN FARMS,29.84,Women,50,Butterfly,2017,7
+Sophie,Reilly,15,PALISADES,30.02,Women,50,Butterfly,2017,7
+Fanny,Wu,17,WOODCLIFFE,30.07,Women,50,Butterfly,2017,7
+Caroline,Karson,15,ROCK CREEK,30.25,Women,50,Butterfly,2017,7
+Holly,Greenleaf,15,NORTHWEST BRANCH,30.47,Women,50,Butterfly,2017,7
+Kelsy,Song,18,WOODCLIFFE,30.58,Women,50,Butterfly,2017,7
+Sarah,Solomon,18,ROCKSHIRE,30.62,Women,50,Butterfly,2017,7
+Nicole,Lopez,15,TILDEN WOODS,30.76,Women,50,Butterfly,2017,7
+Maya,Drill,15,TILDEN WOODS,30.85,Women,50,Butterfly,2017,7
+Frances,Shapiro,18,RIVER FALLS,30.89,Women,50,Butterfly,2017,7
+Kennedy,Nolan,15,TANTERRA,31.15,Women,50,Butterfly,2017,7
+Grace,Elliott,16,GERMANTOWN,31.52,Women,50,Butterfly,2017,7
