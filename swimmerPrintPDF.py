@@ -6,14 +6,14 @@ import tabula as tb
 
 
 def main():
-    # parseSheet("http://mcsl.org/results/2018/asi18.pdf")
-    # parseCSV("asi18Raw.csv", "2018")
-    replaceStuff("asi18.csv")
+    # parseSheet("http://mcsl.org/results/2019/asi19.pdf")
+    # parseCSV("asi19Raw.csv", "2019")
+    replaceStuff("asi19.csv")
 
 
 
 def parseSheet(fileName):
-    df = tb.read_pdf(fileName, pages="all", output_data="dataframe", guess="False")
+    df = tb.read_pdf(fileName, pages='all', output_data="dataframe", guess="False", area="all")
     df = df.values
     printString = ""
     for i in df:
@@ -62,7 +62,7 @@ def parseCSV(fileName, year):
             j = j+1
         time = i[j+1]
         print(lastName + "," + firstName + "," + age + "," + teamName.upper() + "," + time + "," + sex + "," + distance + ","
-              + str(stroke) + "," + str(year) + "," + str(week))
+              + stroke + "," + year + "," + week)
 
 
 def replaceStuff(fileName):
@@ -75,6 +75,7 @@ def replaceStuff(fileName):
         "CONNECTICUT BELAIR": "CB",
         "CHEVY CHASE REC.": "CCR",
         "CHEVY CHASE RECREATION ASSOCIATION": "CCR",
+        "CHEVY CHASE RECREATION ASSOCIA": "CCR",
         "COUNTRY GLEN": "CG",
         "CLARKSBURG VILLAGE": "CLK",
         "CLOPPER MILL KINGSVIEW": "CLM",
@@ -95,6 +96,7 @@ def replaceStuff(fileName):
         "GERMANTOWN": "GER",
         "GLENMONT": "GM",
         "GARRETT PARK": "GP",
+        "GARRET PARK": "GP",
         "HILLANDALE": "H",
         "HALLOWELL": "HA",
         "INVERNESS RECREATION CLUB": "IF",
@@ -185,9 +187,15 @@ def replaceStuff(fileName):
         "Medley": "Medley Relay",
         "Freestyle": "Free",
         "Backstroke": "Back",
-        "Butterfly": "Fly"
+        "Butterfly": "Fly",
+        "Breaststroke": "Breast"
+    }
+    sexes = {
+        "Men": "Boys",
+        "Women": "Girls"
     }
     df = pd.read_csv(fileName).astype(str)
+    df['sex'].replace(to_replace=sexes,inplace=True)
     df['team'].replace(to_replace=teamNames, inplace=True)
     df['age'].replace(to_replace=ages, inplace=True)
     df['event'].replace(to_replace=events, inplace=True)
