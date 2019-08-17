@@ -1,6 +1,6 @@
 # Author: Nate Glod
 # FileName: parseTimes.py
-# Purpose: Parse through the allSwims.csv file and convert all times to floats of seconds
+# Purpose: Parse through the allSwims.csv file and convert all times to floats of milliseconds
 
 import pandas as pd
 import numpy as np
@@ -23,6 +23,7 @@ def convertTimes(fileName):
 
 def main():
     convertTimes("allSwims.csv")
+
 
 if __name__ == "__main__":
     # execute only if run as a script

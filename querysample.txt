@@ -1,0 +1,42 @@
+Author: Nate Glod
+Filename: querySample.txt
+
+Select top swimmers:
+
+SELECT *, RANK() OVER( ORDER BY time ASC) as rank FROM 
+	(SELECT * FROM 
+		(SELECT DISTINCT ON (firstname, lastname) firstname, lastname, team, time, age, year 
+		FROM swims WHERE 
+		age >= %s
+		AND age <= %s 
+		AND sex = %s 
+		AND event = %s 
+		AND distance = %s 
+		AND team = %s
+		AND year = %s 
+		ORDER BY firstname, lastname, time) 
+	as orderedswim ORDER BY time) 
+as rankedswim
+LIMIT %s
+;
+
+
+Select top Swims:
+
+SELECT firstname, lastname, team, time, age, year 
+FROM swims
+WHERE
+firstname = %s
+AND lastname = %s
+AND age >= %s
+AND age <= %s
+AND sex = %s
+AND event = %s
+AND distance = %s
+AND team = %s
+AND year = %s
+AND week = %s
+ORDER BY time
+LIMIT %s
+;
+
