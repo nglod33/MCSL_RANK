@@ -3,21 +3,23 @@ Filename: querySample.txt
 
 Select top swimmers:
 
-SELECT *, RANK() OVER( ORDER BY time ASC) as rank FROM 
-	(SELECT * FROM 
+SELECT * FROM 
+	(SELECT *, RANK() OVER( ORDER BY time ASC) as rank FROM 
 		(SELECT DISTINCT ON (firstname, lastname) firstname, lastname, team, time, age, year 
 		FROM swims WHERE 
-		age >= %s
-		AND age <= %s 
-		AND sex = %s 
-		AND event = %s 
-		AND distance = %s 
-		AND team = %s
-		AND year = %s 
+		age >= 15
+		AND age <= 18
+		AND sex = 'Boys'
+		AND event = 'IM' 
+		AND distance = '100' 
+		AND year = 2017
 		ORDER BY firstname, lastname, time) 
 	as orderedswim ORDER BY time) 
 as rankedswim
-LIMIT %s
+WHERE
+firstname = 'Nate'
+AND lastname = 'Glod'
+LIMIT 50
 ;
 
 
